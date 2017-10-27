@@ -1,0 +1,1362 @@
+[
+  {
+    "model": "stations.Company",
+    "pk": 1,
+    "fields": {
+      "name": "JR北海道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 2,
+    "fields": {
+      "name": "JR東日本",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 3,
+    "fields": {
+      "name": "JR東海",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 4,
+    "fields": {
+      "name": "JR西日本",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 5,
+    "fields": {
+      "name": "JR四国",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 6,
+    "fields": {
+      "name": "JR九州",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 11,
+    "fields": {
+      "name": "東武鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 12,
+    "fields": {
+      "name": "西武鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 13,
+    "fields": {
+      "name": "京成電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 14,
+    "fields": {
+      "name": "京王電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 15,
+    "fields": {
+      "name": "小田急電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 16,
+    "fields": {
+      "name": "東急電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 17,
+    "fields": {
+      "name": "京急電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 18,
+    "fields": {
+      "name": "東京メトロ",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 19,
+    "fields": {
+      "name": "相模鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 20,
+    "fields": {
+      "name": "名古屋鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 21,
+    "fields": {
+      "name": "近畿日本鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 22,
+    "fields": {
+      "name": "南海電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 23,
+    "fields": {
+      "name": "京阪電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 24,
+    "fields": {
+      "name": "阪急電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 25,
+    "fields": {
+      "name": "阪神電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 26,
+    "fields": {
+      "name": "西日本鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 101,
+    "fields": {
+      "name": "札幌市交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 102,
+    "fields": {
+      "name": "函館市交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 103,
+    "fields": {
+      "name": "北海道ちほく高原鉄道",
+      "status": 2
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 248,
+    "fields": {
+      "name": "道南いさりび鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 104,
+    "fields": {
+      "name": "津軽鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 105,
+    "fields": {
+      "name": "弘南鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 106,
+    "fields": {
+      "name": "十和田観光電鉄",
+      "status": 2
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 107,
+    "fields": {
+      "name": "IGRいわて銀河鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 108,
+    "fields": {
+      "name": "青い森鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 109,
+    "fields": {
+      "name": "三陸鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 110,
+    "fields": {
+      "name": "秋田内陸縦貫鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 111,
+    "fields": {
+      "name": "由利高原鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 112,
+    "fields": {
+      "name": "山形鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 113,
+    "fields": {
+      "name": "くりはら田園鉄道",
+      "status": 2
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 114,
+    "fields": {
+      "name": "阿武隈急行",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 115,
+    "fields": {
+      "name": "仙台市交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 116,
+    "fields": {
+      "name": "福島交通",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 117,
+    "fields": {
+      "name": "会津鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 118,
+    "fields": {
+      "name": "仙台空港鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 119,
+    "fields": {
+      "name": "東京都交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 120,
+    "fields": {
+      "name": "秩父鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 121,
+    "fields": {
+      "name": "埼玉高速鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 122,
+    "fields": {
+      "name": "いすみ鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 123,
+    "fields": {
+      "name": "首都圏新都市鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 124,
+    "fields": {
+      "name": "横浜高速鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 125,
+    "fields": {
+      "name": "ゆりかもめ",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 126,
+    "fields": {
+      "name": "わたらせ渓谷鐵道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 127,
+    "fields": {
+      "name": "山万",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 128,
+    "fields": {
+      "name": "伊豆箱根鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 129,
+    "fields": {
+      "name": "ひたちなか海浜鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 130,
+    "fields": {
+      "name": "横浜市交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 131,
+    "fields": {
+      "name": "横浜新都市交通",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 132,
+    "fields": {
+      "name": "関東鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 133,
+    "fields": {
+      "name": "江ノ島電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 134,
+    "fields": {
+      "name": "埼玉新都市交通",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 135,
+    "fields": {
+      "name": "鹿島鉄道",
+      "status": 2
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 136,
+    "fields": {
+      "name": "鹿島臨海鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 137,
+    "fields": {
+      "name": "芝山鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 138,
+    "fields": {
+      "name": "小湊鐵道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 139,
+    "fields": {
+      "name": "湘南モノレール",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 140,
+    "fields": {
+      "name": "上信電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 141,
+    "fields": {
+      "name": "上毛電気鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 142,
+    "fields": {
+      "name": "新京成電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 143,
+    "fields": {
+      "name": "真岡鐵道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 144,
+    "fields": {
+      "name": "千葉都市モノレール",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 145,
+    "fields": {
+      "name": "流鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 146,
+    "fields": {
+      "name": "多摩都市モノレール",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 147,
+    "fields": {
+      "name": "銚子電気鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 148,
+    "fields": {
+      "name": "東京モノレール",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 149,
+    "fields": {
+      "name": "東京臨海高速鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 150,
+    "fields": {
+      "name": "東葉高速鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 151,
+    "fields": {
+      "name": "箱根登山鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 152,
+    "fields": {
+      "name": "北総鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 153,
+    "fields": {
+      "name": "野岩鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 154,
+    "fields": {
+      "name": "富士急行",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 155,
+    "fields": {
+      "name": "北越急行",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 156,
+    "fields": {
+      "name": "しなの鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 157,
+    "fields": {
+      "name": "上田交通",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 158,
+    "fields": {
+      "name": "長野電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 159,
+    "fields": {
+      "name": "アルピコ交通",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 160,
+    "fields": {
+      "name": "富山地方鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 161,
+    "fields": {
+      "name": "神岡鉄道",
+      "status": 2
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 163,
+    "fields": {
+      "name": "万葉線",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 162,
+    "fields": {
+      "name": "黒部峡谷鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 164,
+    "fields": {
+      "name": "富山ライトレール",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 165,
+    "fields": {
+      "name": "北陸鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 244,
+    "fields": {
+      "name": "えちごトキめき鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 245,
+    "fields": {
+      "name": "あいの風とやま鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 246,
+    "fields": {
+      "name": "IRいしかわ鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 166,
+    "fields": {
+      "name": "のと鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 167,
+    "fields": {
+      "name": "えちぜん鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 168,
+    "fields": {
+      "name": "福井鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 169,
+    "fields": {
+      "name": "伊豆急行",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 170,
+    "fields": {
+      "name": "岳南鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 171,
+    "fields": {
+      "name": "静岡鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 172,
+    "fields": {
+      "name": "天竜浜名湖鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 173,
+    "fields": {
+      "name": "遠州鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 174,
+    "fields": {
+      "name": "大井川鐵道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 175,
+    "fields": {
+      "name": "名古屋臨海高速鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 176,
+    "fields": {
+      "name": "東海交通事業",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 177,
+    "fields": {
+      "name": "愛知環状鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 178,
+    "fields": {
+      "name": "愛知高速交通",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 179,
+    "fields": {
+      "name": "名古屋市交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 180,
+    "fields": {
+      "name": "桃花台新交通",
+      "status": 2
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 181,
+    "fields": {
+      "name": "豊橋鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 182,
+    "fields": {
+      "name": "名古屋ガイドウェイバス",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 183,
+    "fields": {
+      "name": "明知鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 184,
+    "fields": {
+      "name": "長良川鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 185,
+    "fields": {
+      "name": "樽見鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 186,
+    "fields": {
+      "name": "三岐鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 187,
+    "fields": {
+      "name": "伊勢鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 188,
+    "fields": {
+      "name": "伊賀鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 189,
+    "fields": {
+      "name": "養老鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 247,
+    "fields": {
+      "name": "四日市あすなろう鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 190,
+    "fields": {
+      "name": "近江鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 191,
+    "fields": {
+      "name": "信楽高原鐵道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 192,
+    "fields": {
+      "name": "嵯峨野観光鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 193,
+    "fields": {
+      "name": "叡山電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 194,
+    "fields": {
+      "name": "京都丹後鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 195,
+    "fields": {
+      "name": "京都市交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 196,
+    "fields": {
+      "name": "京福電気鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 197,
+    "fields": {
+      "name": "北大阪急行電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 198,
+    "fields": {
+      "name": "大阪府都市開発",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 199,
+    "fields": {
+      "name": "水間鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 200,
+    "fields": {
+      "name": "大阪市交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 201,
+    "fields": {
+      "name": "大阪高速鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 202,
+    "fields": {
+      "name": "阪堺電気軌道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 203,
+    "fields": {
+      "name": "神戸高速鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 204,
+    "fields": {
+      "name": "神戸電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 205,
+    "fields": {
+      "name": "北神急行電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 206,
+    "fields": {
+      "name": "山陽電気鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 207,
+    "fields": {
+      "name": "能勢電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 208,
+    "fields": {
+      "name": "三木鉄道",
+      "status": 2
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 209,
+    "fields": {
+      "name": "北条鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 210,
+    "fields": {
+      "name": "智頭急行",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 211,
+    "fields": {
+      "name": "神戸市交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 212,
+    "fields": {
+      "name": "神戸新交通",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 213,
+    "fields": {
+      "name": "紀州鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 214,
+    "fields": {
+      "name": "和歌山電鐵",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 215,
+    "fields": {
+      "name": "若桜鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 216,
+    "fields": {
+      "name": "一畑電車",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 217,
+    "fields": {
+      "name": "水島臨海鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 218,
+    "fields": {
+      "name": "井原鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 219,
+    "fields": {
+      "name": "岡山電気軌道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 220,
+    "fields": {
+      "name": "スカイレールサービス",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 221,
+    "fields": {
+      "name": "広島高速交通",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 222,
+    "fields": {
+      "name": "広島電鉄",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 223,
+    "fields": {
+      "name": "錦川鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 224,
+    "fields": {
+      "name": "阿佐海岸鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 225,
+    "fields": {
+      "name": "高松琴平電気鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 226,
+    "fields": {
+      "name": "伊予鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 227,
+    "fields": {
+      "name": "土佐くろしお鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 228,
+    "fields": {
+      "name": "土佐電気鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 229,
+    "fields": {
+      "name": "甘木鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 230,
+    "fields": {
+      "name": "平成筑豊鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 231,
+    "fields": {
+      "name": "福岡市交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 232,
+    "fields": {
+      "name": "北九州高速鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 233,
+    "fields": {
+      "name": "筑豊電気鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 234,
+    "fields": {
+      "name": "松浦鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 235,
+    "fields": {
+      "name": "島原鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 236,
+    "fields": {
+      "name": "長崎電気軌道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 237,
+    "fields": {
+      "name": "熊本電気鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 238,
+    "fields": {
+      "name": "南阿蘇鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 239,
+    "fields": {
+      "name": "くま川鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 240,
+    "fields": {
+      "name": "肥薩おれんじ鉄道",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 241,
+    "fields": {
+      "name": "熊本市交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 242,
+    "fields": {
+      "name": "鹿児島市交通局",
+      "status": 0
+    }
+  },
+  {
+    "model": "stations.Company",
+    "pk": 243,
+    "fields": {
+      "name": "沖縄都市モノレール",
+      "status": 0
+    }
+  }
+]

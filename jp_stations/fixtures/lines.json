@@ -1,0 +1,4930 @@
+[
+  {
+    "line_cd": 1001,
+    "company_cd": 3,
+    "line_name_h": "中央新幹線",
+    "lon": 137.4938965,
+    "lat": 35.41143805,
+    "e_status": 1
+  },
+  {
+    "line_cd": 1002,
+    "company_cd": 3,
+    "line_name_h": "東海道新幹線",
+    "lon": 137.7214887,
+    "lat": 35.14412194,
+    "e_status": 0
+  },
+  {
+    "line_cd": 1003,
+    "company_cd": 4,
+    "line_name_h": "山陽新幹線",
+    "lon": 133.1478961,
+    "lat": 34.4193377,
+    "e_status": 0
+  },
+  {
+    "line_cd": 1004,
+    "company_cd": 2,
+    "line_name_h": "東北新幹線",
+    "lon": 140.7631922,
+    "lat": 38.27426694,
+    "e_status": 0
+  },
+  {
+    "line_cd": 1005,
+    "company_cd": 2,
+    "line_name_h": "上越新幹線",
+    "lon": 139.121488,
+    "lat": 36.79856473,
+    "e_status": 0
+  },
+  {
+    "line_cd": 1006,
+    "company_cd": 2,
+    "line_name_h": "上越新幹線(ガーラ湯沢支線)",
+    "lon": 138.8032504,
+    "lat": 36.94288211,
+    "e_status": 0
+  },
+  {
+    "line_cd": 1007,
+    "company_cd": 2,
+    "line_name_h": "山形新幹線",
+    "lon": 140.1684778,
+    "lat": 37.58820881,
+    "e_status": 0
+  },
+  {
+    "line_cd": 1008,
+    "company_cd": 2,
+    "line_name_h": "秋田新幹線",
+    "lon": 140.3622538,
+    "lat": 37.75728895,
+    "e_status": 0
+  },
+  {
+    "line_cd": 1009,
+    "company_cd": 2,
+    "line_name_h": "北陸新幹線",
+    "lon": 138.0356977,
+    "lat": 36.18598137,
+    "e_status": 0
+  },
+  {
+    "line_cd": 1010,
+    "company_cd": 6,
+    "line_name_h": "九州新幹線",
+    "lon": 130.5768238,
+    "lat": 32.79428002,
+    "e_status": 0
+  },
+  {
+    "line_cd": 1011,
+    "company_cd": 1,
+    "line_name_h": "北海道新幹線",
+    "lon": 140.6442261,
+    "lat": 42.09414637,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11101,
+    "company_cd": 1,
+    "line_name_h": "JR函館本線(函館～長万部)",
+    "lon": 140.4833697,
+    "lat": 42.23981411,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11102,
+    "company_cd": 1,
+    "line_name_h": "JR函館本線(長万部～小樽)",
+    "lon": 140.6428878,
+    "lat": 42.91991023,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11103,
+    "company_cd": 1,
+    "line_name_h": "JR函館本線(小樽～旭川)",
+    "lon": 141.6979108,
+    "lat": 43.4150974,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11104,
+    "company_cd": 1,
+    "line_name_h": "JR室蘭本線(長万部・室蘭～苫小牧)",
+    "lon": 141.0063937,
+    "lat": 42.57071674,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11105,
+    "company_cd": 1,
+    "line_name_h": "JR室蘭本線(苫小牧～岩見沢)",
+    "lon": 141.7444991,
+    "lat": 42.93841714,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11106,
+    "company_cd": 1,
+    "line_name_h": "JR根室本線(滝川～新得)",
+    "lon": 142.3355332,
+    "lat": 43.35975106,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11107,
+    "company_cd": 1,
+    "line_name_h": "JR根室本線(新得～釧路)",
+    "lon": 143.5647441,
+    "lat": 42.9656747,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11108,
+    "company_cd": 1,
+    "line_name_h": "JR根室本線(釧路～根室)",
+    "lon": 145.0642882,
+    "lat": 43.12755462,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11109,
+    "company_cd": 1,
+    "line_name_h": "JR千歳線",
+    "lon": 141.5675688,
+    "lat": 42.88585087,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11110,
+    "company_cd": 1,
+    "line_name_h": "JR石勝線",
+    "lon": 142.1208103,
+    "lat": 42.97760967,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11111,
+    "company_cd": 1,
+    "line_name_h": "JR日高本線",
+    "lon": 142.1892281,
+    "lat": 42.43948998,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11112,
+    "company_cd": 1,
+    "line_name_h": "JR札沼線",
+    "lon": 141.6575101,
+    "lat": 43.33044878,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11113,
+    "company_cd": 1,
+    "line_name_h": "JR留萌本線",
+    "lon": 141.763792,
+    "lat": 43.84733117,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11114,
+    "company_cd": 1,
+    "line_name_h": "JR富良野線",
+    "lon": 142.4293334,
+    "lat": 43.60983839,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11115,
+    "company_cd": 1,
+    "line_name_h": "JR宗谷本線",
+    "lon": 142.225614,
+    "lat": 44.6587297,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11116,
+    "company_cd": 1,
+    "line_name_h": "JR石北本線",
+    "lon": 143.3629461,
+    "lat": 43.9613877,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11117,
+    "company_cd": 1,
+    "line_name_h": "JR釧網本線",
+    "lon": 144.4337656,
+    "lat": 43.52373901,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11118,
+    "company_cd": 1,
+    "line_name_h": "JR海峡線",
+    "lon": 140.329047,
+    "lat": 41.36657457,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11119,
+    "company_cd": 1,
+    "line_name_h": "JR江差線",
+    "lon": 140.4168208,
+    "lat": 41.7753819,
+    "e_status": 2
+  },
+  {
+    "line_cd": 11201,
+    "company_cd": 2,
+    "line_name_h": "JR東北本線(八戸～青森)",
+    "lon": 141.1472278,
+    "lat": 40.69791852,
+    "e_status": 2
+  },
+  {
+    "line_cd": 11202,
+    "company_cd": 2,
+    "line_name_h": "JR奥羽本線(新庄～青森)",
+    "lon": 140.4427173,
+    "lat": 39.92227066,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11231,
+    "company_cd": 2,
+    "line_name_h": "JR東北本線(黒磯～利府・盛岡)",
+    "lon": 140.8981249,
+    "lat": 38.46142404,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11203,
+    "company_cd": 2,
+    "line_name_h": "JR大湊線",
+    "lon": 141.2341889,
+    "lat": 41.07704833,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11204,
+    "company_cd": 2,
+    "line_name_h": "JR五能線",
+    "lon": 140.1536,
+    "lat": 40.62248824,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11205,
+    "company_cd": 2,
+    "line_name_h": "JR津軽線",
+    "lon": 140.6379643,
+    "lat": 40.99724898,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11206,
+    "company_cd": 2,
+    "line_name_h": "JR八戸線",
+    "lon": 141.7019344,
+    "lat": 40.40264308,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11207,
+    "company_cd": 2,
+    "line_name_h": "JR岩泉線",
+    "lon": 141.7110907,
+    "lat": 39.75256666,
+    "e_status": 2
+  },
+  {
+    "line_cd": 11208,
+    "company_cd": 2,
+    "line_name_h": "JR大船渡線",
+    "lon": 141.4724298,
+    "lat": 38.96164069,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11209,
+    "company_cd": 2,
+    "line_name_h": "JR釜石線",
+    "lon": 141.5279124,
+    "lat": 39.32636455,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11210,
+    "company_cd": 2,
+    "line_name_h": "JR北上線",
+    "lon": 140.8466239,
+    "lat": 39.30471879,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11211,
+    "company_cd": 2,
+    "line_name_h": "JR田沢湖線",
+    "lon": 140.7685672,
+    "lat": 39.6934485,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11212,
+    "company_cd": 2,
+    "line_name_h": "JR花輪線",
+    "lon": 140.8453488,
+    "lat": 40.13373143,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11213,
+    "company_cd": 2,
+    "line_name_h": "JR山田線",
+    "lon": 141.6667874,
+    "lat": 39.59692922,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11214,
+    "company_cd": 2,
+    "line_name_h": "JR羽越本線",
+    "lon": 139.7617803,
+    "lat": 38.73294117,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11215,
+    "company_cd": 2,
+    "line_name_h": "JR男鹿線",
+    "lon": 139.958679,
+    "lat": 39.89239988,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11216,
+    "company_cd": 2,
+    "line_name_h": "JR奥羽本線(福島～新庄)",
+    "lon": 140.2833537,
+    "lat": 38.30771536,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11217,
+    "company_cd": 2,
+    "line_name_h": "JR仙山線",
+    "lon": 140.5996186,
+    "lat": 38.31470035,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11218,
+    "company_cd": 2,
+    "line_name_h": "JR左沢線",
+    "lon": 140.2808095,
+    "lat": 38.33565073,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11219,
+    "company_cd": 2,
+    "line_name_h": "JR米坂線",
+    "lon": 139.7703569,
+    "lat": 38.04498397,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11220,
+    "company_cd": 2,
+    "line_name_h": "JR陸羽西線",
+    "lon": 140.0961846,
+    "lat": 38.75534124,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11221,
+    "company_cd": 2,
+    "line_name_h": "JR陸羽東線",
+    "lon": 140.6813043,
+    "lat": 38.73003972,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11222,
+    "company_cd": 2,
+    "line_name_h": "JR仙石線",
+    "lon": 141.0726418,
+    "lat": 38.36634216,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11223,
+    "company_cd": 2,
+    "line_name_h": "JR石巻線",
+    "lon": 141.2522992,
+    "lat": 38.48686849,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11224,
+    "company_cd": 2,
+    "line_name_h": "JR気仙沼線",
+    "lon": 141.4644576,
+    "lat": 38.69617975,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11225,
+    "company_cd": 2,
+    "line_name_h": "JR磐越西線(郡山～会津若松)",
+    "lon": 140.1307905,
+    "lat": 37.51773393,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11226,
+    "company_cd": 2,
+    "line_name_h": "JR磐越西線(森と水とロマンの鉄道)",
+    "lon": 139.4792494,
+    "lat": 37.68623246,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11227,
+    "company_cd": 2,
+    "line_name_h": "JR只見線",
+    "lon": 139.4478074,
+    "lat": 37.39176462,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11228,
+    "company_cd": 2,
+    "line_name_h": "JR磐越東線",
+    "lon": 140.6426123,
+    "lat": 37.26977724,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11229,
+    "company_cd": 2,
+    "line_name_h": "JR常磐線(取手～いわき)",
+    "lon": 140.5188744,
+    "lat": 36.51900406,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11230,
+    "company_cd": 2,
+    "line_name_h": "JR常磐線(いわき～仙台)",
+    "lon": 140.9334199,
+    "lat": 37.66155605,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11301,
+    "company_cd": 2,
+    "line_name_h": "JR東海道本線(東京～熱海)",
+    "lon": 139.4302441,
+    "lat": 35.39507962,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11302,
+    "company_cd": 2,
+    "line_name_h": "JR山手線",
+    "lon": 139.7352228,
+    "lat": 35.69302731,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11303,
+    "company_cd": 2,
+    "line_name_h": "JR南武線",
+    "lon": 139.5621831,
+    "lat": 35.62126802,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11304,
+    "company_cd": 2,
+    "line_name_h": "JR鶴見線",
+    "lon": 139.6973422,
+    "lat": 35.50322702,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11305,
+    "company_cd": 2,
+    "line_name_h": "JR武蔵野線",
+    "lon": 139.7051131,
+    "lat": 35.80257708,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11306,
+    "company_cd": 2,
+    "line_name_h": "JR横浜線",
+    "lon": 139.4711185,
+    "lat": 35.56100411,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11307,
+    "company_cd": 2,
+    "line_name_h": "JR根岸線",
+    "lon": 139.5986788,
+    "lat": 35.41484559,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11308,
+    "company_cd": 2,
+    "line_name_h": "JR横須賀線",
+    "lon": 139.6476186,
+    "lat": 35.48340539,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11309,
+    "company_cd": 2,
+    "line_name_h": "JR相模線",
+    "lon": 139.3678017,
+    "lat": 35.48317493,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11311,
+    "company_cd": 2,
+    "line_name_h": "JR中央本線(東京～塩尻)",
+    "lon": 138.617358,
+    "lat": 35.77036734,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11312,
+    "company_cd": 2,
+    "line_name_h": "JR中央線(快速)",
+    "lon": 139.5379885,
+    "lat": 35.70017042,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11313,
+    "company_cd": 2,
+    "line_name_h": "JR中央・総武緩行線",
+    "lon": 139.8371552,
+    "lat": 35.70164136,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11314,
+    "company_cd": 2,
+    "line_name_h": "JR総武本線",
+    "lon": 140.2546612,
+    "lat": 35.68790263,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11315,
+    "company_cd": 2,
+    "line_name_h": "JR青梅線",
+    "lon": 139.2400414,
+    "lat": 35.78257265,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11316,
+    "company_cd": 2,
+    "line_name_h": "JR五日市線",
+    "lon": 139.2916574,
+    "lat": 35.72583044,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11317,
+    "company_cd": 2,
+    "line_name_h": "JR八高線(八王子～高麗川)",
+    "lon": 139.3329938,
+    "lat": 35.78050242,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11318,
+    "company_cd": 2,
+    "line_name_h": "JR八高線(高麗川～高崎)",
+    "lon": 139.1796533,
+    "lat": 36.12104162,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11319,
+    "company_cd": 2,
+    "line_name_h": "JR東北本線",
+    "lon": 139.846403,
+    "lat": 36.37943924,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11320,
+    "company_cd": 2,
+    "line_name_h": "JR常磐線(上野～取手)",
+    "lon": 139.9238125,
+    "lat": 35.81971933,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11321,
+    "company_cd": 2,
+    "line_name_h": "JR埼京線",
+    "lon": 139.6182015,
+    "lat": 35.80319582,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11322,
+    "company_cd": 2,
+    "line_name_h": "JR川越線",
+    "lon": 139.4693426,
+    "lat": 35.90961046,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11323,
+    "company_cd": 2,
+    "line_name_h": "JR高崎線",
+    "lon": 139.4521807,
+    "lat": 36.09573564,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11324,
+    "company_cd": 2,
+    "line_name_h": "JR外房線",
+    "lon": 140.2798303,
+    "lat": 35.34873907,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11325,
+    "company_cd": 2,
+    "line_name_h": "JR内房線",
+    "lon": 139.9480808,
+    "lat": 35.29328827,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11326,
+    "company_cd": 2,
+    "line_name_h": "JR京葉線",
+    "lon": 139.93611,
+    "lat": 35.64364962,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11327,
+    "company_cd": 2,
+    "line_name_h": "JR成田線",
+    "lon": 140.3723884,
+    "lat": 35.86276466,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11328,
+    "company_cd": 2,
+    "line_name_h": "JR成田エクスプレス",
+    "lon": 139.7571982,
+    "lat": 35.69212092,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11329,
+    "company_cd": 2,
+    "line_name_h": "JR鹿島線",
+    "lon": 140.5646973,
+    "lat": 35.94268442,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11330,
+    "company_cd": 2,
+    "line_name_h": "JR久留里線",
+    "lon": 140.0464997,
+    "lat": 35.3506777,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11331,
+    "company_cd": 2,
+    "line_name_h": "JR東金線",
+    "lon": 140.3680586,
+    "lat": 35.56232866,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11332,
+    "company_cd": 2,
+    "line_name_h": "JR京浜東北線",
+    "lon": 139.6425121,
+    "lat": 35.63929556,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11333,
+    "company_cd": 2,
+    "line_name_h": "JR湘南新宿ライン",
+    "lon": 139.6229437,
+    "lat": 35.65739974,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11343,
+    "company_cd": 2,
+    "line_name_h": "上野東京ライン",
+    "lon": 139.7721004,
+    "lat": 35.69745581,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11334,
+    "company_cd": 2,
+    "line_name_h": "JR烏山線",
+    "lon": 140.0649785,
+    "lat": 36.65874003,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11335,
+    "company_cd": 2,
+    "line_name_h": "JR吾妻線",
+    "lon": 138.7913036,
+    "lat": 36.55204126,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11337,
+    "company_cd": 2,
+    "line_name_h": "JR信越本線",
+    "lon": 138.8807751,
+    "lat": 36.33038234,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11338,
+    "company_cd": 2,
+    "line_name_h": "JR水郡線",
+    "lon": 140.4621536,
+    "lat": 36.92204743,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11339,
+    "company_cd": 2,
+    "line_name_h": "JR水戸線",
+    "lon": 140.0513207,
+    "lat": 36.33356509,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11340,
+    "company_cd": 2,
+    "line_name_h": "JR日光線",
+    "lon": 139.7529407,
+    "lat": 36.63614345,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11341,
+    "company_cd": 2,
+    "line_name_h": "JR両毛線",
+    "lon": 139.38788,
+    "lat": 36.35677395,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11342,
+    "company_cd": 2,
+    "line_name_h": "JR上越線",
+    "lon": 138.8924192,
+    "lat": 36.9153866,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11401,
+    "company_cd": 2,
+    "line_name_h": "JR小海線",
+    "lon": 138.4394812,
+    "lat": 36.09169709,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11402,
+    "company_cd": 3,
+    "line_name_h": "JR身延線",
+    "lon": 138.532397,
+    "lat": 35.39216324,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11403,
+    "company_cd": 2,
+    "line_name_h": "JR信越本線(篠ノ井～長野)",
+    "lon": 138.1598163,
+    "lat": 36.60859597,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11404,
+    "company_cd": 2,
+    "line_name_h": "JR信越本線(直江津～新潟)",
+    "lon": 138.7595452,
+    "lat": 37.51108174,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11405,
+    "company_cd": 4,
+    "line_name_h": "JR北陸本線(富山～直江津)",
+    "lon": 137.7185006,
+    "lat": 37.01500893,
+    "e_status": 2
+  },
+  {
+    "line_cd": 11406,
+    "company_cd": 2,
+    "line_name_h": "JR白新線",
+    "lon": 139.1904713,
+    "lat": 37.92400721,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11407,
+    "company_cd": 2,
+    "line_name_h": "JR飯山線",
+    "lon": 138.5417323,
+    "lat": 36.98446011,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11408,
+    "company_cd": 2,
+    "line_name_h": "JR越後線",
+    "lon": 138.8340003,
+    "lat": 37.62674857,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11409,
+    "company_cd": 2,
+    "line_name_h": "JR大糸線",
+    "lon": 137.8735087,
+    "lat": 36.67612787,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11410,
+    "company_cd": 2,
+    "line_name_h": "JR弥彦線",
+    "lon": 138.9044353,
+    "lat": 37.67331836,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11411,
+    "company_cd": 3,
+    "line_name_h": "JR中央本線(名古屋～塩尻)",
+    "lon": 137.468492,
+    "lat": 35.6624711,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11412,
+    "company_cd": 2,
+    "line_name_h": "JR篠ノ井線",
+    "lon": 138.0172774,
+    "lat": 36.38422475,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11413,
+    "company_cd": 3,
+    "line_name_h": "JR飯田線(豊橋～天竜峡)",
+    "lon": 137.6689494,
+    "lat": 35.12564791,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11414,
+    "company_cd": 3,
+    "line_name_h": "JR飯田線(天竜峡～辰野)",
+    "lon": 137.8986353,
+    "lat": 35.75990218,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11415,
+    "company_cd": 4,
+    "line_name_h": "JR北陸本線(米原～金沢)",
+    "lon": 136.4425104,
+    "lat": 36.33393306,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11416,
+    "company_cd": 3,
+    "line_name_h": "JR高山本線",
+    "lon": 137.1437387,
+    "lat": 36.03506978,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11417,
+    "company_cd": 4,
+    "line_name_h": "JR城端線",
+    "lon": 136.9630801,
+    "lat": 36.64686113,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11418,
+    "company_cd": 4,
+    "line_name_h": "JR氷見線",
+    "lon": 137.016787,
+    "lat": 36.80602651,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11419,
+    "company_cd": 4,
+    "line_name_h": "JR七尾線",
+    "lon": 136.7916271,
+    "lat": 36.8807224,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11420,
+    "company_cd": 4,
+    "line_name_h": "JR北陸本線(敦賀～敦賀港)",
+    "lon": 136.0755333,
+    "lat": 35.65634921,
+    "e_status": 2
+  },
+  {
+    "line_cd": 11421,
+    "company_cd": 4,
+    "line_name_h": "JR越美北線",
+    "lon": 136.4413114,
+    "lat": 35.99858409,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11422,
+    "company_cd": 4,
+    "line_name_h": "JR小浜線",
+    "lon": 135.7418184,
+    "lat": 35.53015548,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11501,
+    "company_cd": 3,
+    "line_name_h": "JR東海道本線(熱海～浜松)",
+    "lon": 138.3888098,
+    "lat": 34.94909732,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11502,
+    "company_cd": 3,
+    "line_name_h": "JR東海道本線(浜松～岐阜)",
+    "lon": 137.129185,
+    "lat": 35.04642183,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11503,
+    "company_cd": 3,
+    "line_name_h": "JR東海道本線(岐阜～美濃赤坂・米原)",
+    "lon": 136.5281548,
+    "lat": 35.36362897,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11504,
+    "company_cd": 2,
+    "line_name_h": "JR伊東線",
+    "lon": 139.0696551,
+    "lat": 35.04759233,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11505,
+    "company_cd": 3,
+    "line_name_h": "JR御殿場線",
+    "lon": 139.0331425,
+    "lat": 35.22246077,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11506,
+    "company_cd": 3,
+    "line_name_h": "JR武豊線",
+    "lon": 136.9586884,
+    "lat": 34.93257927,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11507,
+    "company_cd": 3,
+    "line_name_h": "JR太多線",
+    "lon": 137.0625923,
+    "lat": 35.39115836,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11508,
+    "company_cd": 3,
+    "line_name_h": "JR関西本線(名古屋～亀山)",
+    "lon": 136.6393149,
+    "lat": 35.03333933,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11509,
+    "company_cd": 4,
+    "line_name_h": "JR関西本線(亀山～加茂)",
+    "lon": 136.1749894,
+    "lat": 34.80143442,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11510,
+    "company_cd": 3,
+    "line_name_h": "JR紀勢本線",
+    "lon": 136.2872619,
+    "lat": 34.32154395,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11511,
+    "company_cd": 4,
+    "line_name_h": "JR草津線",
+    "lon": 136.1045246,
+    "lat": 34.96458574,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11512,
+    "company_cd": 3,
+    "line_name_h": "JR参宮線",
+    "lon": 136.6987801,
+    "lat": 34.495826,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11513,
+    "company_cd": 3,
+    "line_name_h": "JR名松線",
+    "lon": 136.3881753,
+    "lat": 34.60028532,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11601,
+    "company_cd": 4,
+    "line_name_h": "JR東海道本線(米原～京都)",
+    "lon": 136.0951369,
+    "lat": 35.11930883,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11602,
+    "company_cd": 4,
+    "line_name_h": "JR東海道本線(京都～大阪)",
+    "lon": 135.6248139,
+    "lat": 34.85192446,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11603,
+    "company_cd": 4,
+    "line_name_h": "JR東海道本線(大阪～神戸)",
+    "lon": 135.3347285,
+    "lat": 34.72876179,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11605,
+    "company_cd": 4,
+    "line_name_h": "JR湖西線",
+    "lon": 135.9648814,
+    "lat": 35.24644583,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11607,
+    "company_cd": 4,
+    "line_name_h": "JR関西本線(加茂～ＪＲ難波)",
+    "lon": 135.6774159,
+    "lat": 34.65043379,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11608,
+    "company_cd": 4,
+    "line_name_h": "JR山陽本線(神戸～姫路)",
+    "lon": 134.9283387,
+    "lat": 34.71997139,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11609,
+    "company_cd": 4,
+    "line_name_h": "JR山陽本線(姫路～岡山)",
+    "lon": 134.2462107,
+    "lat": 34.81352156,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11610,
+    "company_cd": 4,
+    "line_name_h": "JR山陽本線(岡山～三原)",
+    "lon": 133.5637577,
+    "lat": 34.5230414,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11611,
+    "company_cd": 4,
+    "line_name_h": "JR山陽本線(三原～岩国)",
+    "lon": 132.5497997,
+    "lat": 34.3865014,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11612,
+    "company_cd": 4,
+    "line_name_h": "JR山陽本線(岩国～門司)",
+    "lon": 131.6063428,
+    "lat": 34.07166445,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11613,
+    "company_cd": 4,
+    "line_name_h": "JR山陽本線(兵庫～和田岬)",
+    "lon": 135.167942,
+    "lat": 34.66577552,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11614,
+    "company_cd": 4,
+    "line_name_h": "JR山陰本線(京都～園部)",
+    "lon": 135.6041557,
+    "lat": 35.05307104,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11615,
+    "company_cd": 4,
+    "line_name_h": "JR山陰本線(園部～豊岡)",
+    "lon": 135.0886844,
+    "lat": 35.32609457,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11616,
+    "company_cd": 4,
+    "line_name_h": "JR山陰本線(豊岡～米子)",
+    "lon": 134.0209022,
+    "lat": 35.5218286,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11617,
+    "company_cd": 4,
+    "line_name_h": "JR片町線",
+    "lon": 135.6901646,
+    "lat": 34.7599984,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11618,
+    "company_cd": 4,
+    "line_name_h": "奈良線",
+    "lon": 135.7864342,
+    "lat": 34.83402323,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11622,
+    "company_cd": 4,
+    "line_name_h": "JR舞鶴線",
+    "lon": 135.2793138,
+    "lat": 35.36774424,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11623,
+    "company_cd": 4,
+    "line_name_h": "大阪環状線",
+    "lon": 135.5021892,
+    "lat": 34.68154143,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11624,
+    "company_cd": 4,
+    "line_name_h": "JR桜島線",
+    "lon": 135.4474452,
+    "lat": 34.67404443,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11625,
+    "company_cd": 4,
+    "line_name_h": "JR東西線",
+    "lon": 135.4729665,
+    "lat": 34.70792548,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11626,
+    "company_cd": 4,
+    "line_name_h": "阪和線(天王寺～和歌山)",
+    "lon": 135.4011938,
+    "lat": 34.46154098,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11627,
+    "company_cd": 4,
+    "line_name_h": "阪和線(鳳～東羽衣)",
+    "lon": 135.4495774,
+    "lat": 34.53405857,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11628,
+    "company_cd": 4,
+    "line_name_h": "JR関西空港線",
+    "lon": 135.2888684,
+    "lat": 34.415185,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11629,
+    "company_cd": 4,
+    "line_name_h": "JR福知山線(新大阪～篠山口)",
+    "lon": 135.3444349,
+    "lat": 34.8698929,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11630,
+    "company_cd": 4,
+    "line_name_h": "福知山線(篠山口～福知山)",
+    "lon": 135.105576,
+    "lat": 35.16077077,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11631,
+    "company_cd": 4,
+    "line_name_h": "JR赤穂線",
+    "lon": 134.1974932,
+    "lat": 34.74727448,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11632,
+    "company_cd": 4,
+    "line_name_h": "JR加古川線",
+    "lon": 134.9525226,
+    "lat": 34.9370801,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11633,
+    "company_cd": 4,
+    "line_name_h": "JR姫新線(姫路～佐用)",
+    "lon": 134.5265431,
+    "lat": 34.9258616,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11634,
+    "company_cd": 4,
+    "line_name_h": "JR姫新線(佐用～新見)",
+    "lon": 133.8805395,
+    "lat": 35.0502408,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11635,
+    "company_cd": 4,
+    "line_name_h": "JR播但線",
+    "lon": 134.7640542,
+    "lat": 35.11319296,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11636,
+    "company_cd": 4,
+    "line_name_h": "JR和歌山線",
+    "lon": 135.5570816,
+    "lat": 34.36363683,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11637,
+    "company_cd": 4,
+    "line_name_h": "桜井線",
+    "lon": 135.8007123,
+    "lat": 34.58068955,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11639,
+    "company_cd": 4,
+    "line_name_h": "JR紀勢本線(新宮～和歌山)",
+    "lon": 135.4271755,
+    "lat": 33.83183628,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11640,
+    "company_cd": 4,
+    "line_name_h": "紀勢本線(和歌山～和歌山市)",
+    "lon": 135.1783337,
+    "lat": 34.23803307,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11641,
+    "company_cd": 4,
+    "line_name_h": "おおさか東線",
+    "lon": 135.5742715,
+    "lat": 34.65696791,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11701,
+    "company_cd": 4,
+    "line_name_h": "JR山陰本線(米子～益田)",
+    "lon": 132.5610675,
+    "lat": 35.20731024,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11702,
+    "company_cd": 4,
+    "line_name_h": "JR山陰本線(益田～下関)",
+    "lon": 131.2726666,
+    "lat": 34.35940661,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11703,
+    "company_cd": 4,
+    "line_name_h": "JR伯備線",
+    "lon": 133.495623,
+    "lat": 35.05328908,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11704,
+    "company_cd": 4,
+    "line_name_h": "JR因美線",
+    "lon": 134.1500156,
+    "lat": 35.26468997,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11705,
+    "company_cd": 4,
+    "line_name_h": "JR境線",
+    "lon": 133.2625398,
+    "lat": 35.48805798,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11706,
+    "company_cd": 4,
+    "line_name_h": "JR木次線",
+    "lon": 133.0214796,
+    "lat": 35.19925146,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11707,
+    "company_cd": 4,
+    "line_name_h": "JR三江線",
+    "lon": 132.5629828,
+    "lat": 34.94301166,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11708,
+    "company_cd": 4,
+    "line_name_h": "JR山口線",
+    "lon": 131.4734848,
+    "lat": 34.34664277,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11709,
+    "company_cd": 4,
+    "line_name_h": "JR宇野線",
+    "lon": 133.9131994,
+    "lat": 34.57584113,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11710,
+    "company_cd": 4,
+    "line_name_h": "JR本四備讃線",
+    "lon": 133.80944,
+    "lat": 34.45427589,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11713,
+    "company_cd": 4,
+    "line_name_h": "JR吉備線",
+    "lon": 133.8272676,
+    "lat": 34.68115607,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11714,
+    "company_cd": 4,
+    "line_name_h": "JR芸備線",
+    "lon": 132.9216429,
+    "lat": 34.77393016,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11715,
+    "company_cd": 4,
+    "line_name_h": "JR津山線",
+    "lon": 133.9227023,
+    "lat": 34.89119811,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11716,
+    "company_cd": 4,
+    "line_name_h": "JR呉線",
+    "lon": 132.7797393,
+    "lat": 34.38727696,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11717,
+    "company_cd": 4,
+    "line_name_h": "JR可部線",
+    "lon": 132.4778146,
+    "lat": 34.45822254,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11720,
+    "company_cd": 4,
+    "line_name_h": "JR福塩線",
+    "lon": 133.1297841,
+    "lat": 34.63826629,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11721,
+    "company_cd": 4,
+    "line_name_h": "JR宇部線",
+    "lon": 131.3026758,
+    "lat": 34.01935295,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11722,
+    "company_cd": 4,
+    "line_name_h": "JR美祢線",
+    "lon": 131.1806931,
+    "lat": 34.23328102,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11723,
+    "company_cd": 4,
+    "line_name_h": "JR小野田線",
+    "lon": 131.1936861,
+    "lat": 33.97855545,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11724,
+    "company_cd": 4,
+    "line_name_h": "JR岩徳線",
+    "lon": 132.0569761,
+    "lat": 34.09347763,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11801,
+    "company_cd": 5,
+    "line_name_h": "JR土讃線",
+    "lon": 133.5702573,
+    "lat": 33.76640013,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11802,
+    "company_cd": 5,
+    "line_name_h": "JR高徳線",
+    "lon": 134.310584,
+    "lat": 34.24954113,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11803,
+    "company_cd": 5,
+    "line_name_h": "JR徳島線",
+    "lon": 134.1518085,
+    "lat": 34.04872233,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11804,
+    "company_cd": 5,
+    "line_name_h": "JR牟岐線",
+    "lon": 134.5084229,
+    "lat": 33.83996475,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11805,
+    "company_cd": 5,
+    "line_name_h": "JR鳴門線",
+    "lon": 134.5684284,
+    "lat": 34.16377798,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11806,
+    "company_cd": 5,
+    "line_name_h": "JR予讃線",
+    "lon": 133.3626593,
+    "lat": 34.19299177,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11807,
+    "company_cd": 5,
+    "line_name_h": "JR予讃・内子線",
+    "lon": 132.5895168,
+    "lat": 33.55703537,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11808,
+    "company_cd": 5,
+    "line_name_h": "JR予土線",
+    "lon": 132.8223845,
+    "lat": 33.23287192,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11901,
+    "company_cd": 4,
+    "line_name_h": "JR博多南線",
+    "lon": 130.4288095,
+    "lat": 33.56485012,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11902,
+    "company_cd": 6,
+    "line_name_h": "JR鹿児島本線(下関・門司港～博多)",
+    "lon": 130.6285375,
+    "lat": 33.83670542,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11903,
+    "company_cd": 6,
+    "line_name_h": "JR鹿児島本線(博多～八代)",
+    "lon": 130.5063075,
+    "lat": 33.09244602,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11904,
+    "company_cd": 6,
+    "line_name_h": "JR鹿児島本線(川内～鹿児島)",
+    "lon": 130.363502,
+    "lat": 31.65334826,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11905,
+    "company_cd": 6,
+    "line_name_h": "JR長崎本線(鳥栖～長崎)",
+    "lon": 130.1521506,
+    "lat": 33.12136017,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11906,
+    "company_cd": 6,
+    "line_name_h": "JR日豊本線(門司港～佐伯)",
+    "lon": 131.3035516,
+    "lat": 33.55493531,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11907,
+    "company_cd": 6,
+    "line_name_h": "JR日豊本線(佐伯～鹿児島中央)",
+    "lon": 131.447211,
+    "lat": 32.21697834,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11908,
+    "company_cd": 6,
+    "line_name_h": "JR篠栗線",
+    "lon": 130.5327032,
+    "lat": 33.61990987,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11909,
+    "company_cd": 6,
+    "line_name_h": "JR筑肥線(姪浜～西唐津)",
+    "lon": 130.1294128,
+    "lat": 33.51164937,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11910,
+    "company_cd": 6,
+    "line_name_h": "JR筑豊本線(若松～折尾)",
+    "lon": 130.7521278,
+    "lat": 33.88822023,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11911,
+    "company_cd": 6,
+    "line_name_h": "JR筑豊本線(折尾～桂川)",
+    "lon": 130.7061142,
+    "lat": 33.73450091,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11912,
+    "company_cd": 6,
+    "line_name_h": "JR筑豊本線(桂川～原田)",
+    "lon": 130.6091322,
+    "lat": 33.5241644,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11913,
+    "company_cd": 6,
+    "line_name_h": "JR久大本線",
+    "lon": 131.0359949,
+    "lat": 33.2620623,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11914,
+    "company_cd": 6,
+    "line_name_h": "JR日田彦山線",
+    "lon": 130.8729992,
+    "lat": 33.5869026,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11915,
+    "company_cd": 6,
+    "line_name_h": "JR後藤寺線",
+    "lon": 130.7431474,
+    "lat": 33.63894268,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11916,
+    "company_cd": 6,
+    "line_name_h": "JR香椎線(西戸崎～香椎)",
+    "lon": 130.4041931,
+    "lat": 33.67670942,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11917,
+    "company_cd": 6,
+    "line_name_h": "JR香椎線(香椎～宇美)",
+    "lon": 130.4729008,
+    "lat": 33.61956046,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11918,
+    "company_cd": 6,
+    "line_name_h": "JR佐世保線",
+    "lon": 129.9399703,
+    "lat": 33.18811566,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11920,
+    "company_cd": 6,
+    "line_name_h": "JR筑肥線(西唐津～伊万里)",
+    "lon": 129.9397357,
+    "lat": 33.37129522,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11921,
+    "company_cd": 6,
+    "line_name_h": "JR唐津線",
+    "lon": 130.0774047,
+    "lat": 33.3354427,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11922,
+    "company_cd": 6,
+    "line_name_h": "JR大村線",
+    "lon": 129.9214241,
+    "lat": 33.00169785,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11923,
+    "company_cd": 6,
+    "line_name_h": "JR豊肥本線",
+    "lon": 131.2621302,
+    "lat": 33.01712664,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11924,
+    "company_cd": 6,
+    "line_name_h": "JR三角線",
+    "lon": 130.5892981,
+    "lat": 32.6914496,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11925,
+    "company_cd": 6,
+    "line_name_h": "JR肥薩線(八代～吉松)",
+    "lon": 130.6833119,
+    "lat": 32.28699732,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11926,
+    "company_cd": 6,
+    "line_name_h": "JR肥薩線(吉松～隼人)",
+    "lon": 130.7067465,
+    "lat": 31.89098429,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11927,
+    "company_cd": 6,
+    "line_name_h": "JR宮崎空港線",
+    "lon": 131.4327623,
+    "lat": 31.89534315,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11928,
+    "company_cd": 6,
+    "line_name_h": "JR日南線",
+    "lon": 131.3626539,
+    "lat": 31.68357655,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11929,
+    "company_cd": 6,
+    "line_name_h": "JR吉都線",
+    "lon": 130.9564017,
+    "lat": 31.91724391,
+    "e_status": 0
+  },
+  {
+    "line_cd": 11930,
+    "company_cd": 6,
+    "line_name_h": "JR指宿枕崎線",
+    "lon": 130.5034109,
+    "lat": 31.35999955,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21001,
+    "company_cd": 11,
+    "line_name_h": "東武東上線",
+    "lon": 139.4596379,
+    "lat": 35.92121867,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21002,
+    "company_cd": 11,
+    "line_name_h": "東武伊勢崎線",
+    "lon": 139.4993413,
+    "lat": 36.05676642,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21003,
+    "company_cd": 11,
+    "line_name_h": "東武日光線",
+    "lon": 139.6911602,
+    "lat": 36.4457974,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21004,
+    "company_cd": 11,
+    "line_name_h": "東武野田線",
+    "lon": 139.8919126,
+    "lat": 35.88791322,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21005,
+    "company_cd": 11,
+    "line_name_h": "東武亀戸線",
+    "lon": 139.8243468,
+    "lat": 35.70795152,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21006,
+    "company_cd": 11,
+    "line_name_h": "東武大師線",
+    "lon": 139.7853229,
+    "lat": 35.77906123,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21007,
+    "company_cd": 11,
+    "line_name_h": "東武越生線",
+    "lon": 139.3426227,
+    "lat": 35.95321877,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21008,
+    "company_cd": 11,
+    "line_name_h": "東武宇都宮線",
+    "lon": 139.8178944,
+    "lat": 36.48379029,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21009,
+    "company_cd": 11,
+    "line_name_h": "東武鬼怒川線",
+    "lon": 139.7071736,
+    "lat": 36.79812975,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21010,
+    "company_cd": 11,
+    "line_name_h": "東武佐野線",
+    "lon": 139.5680586,
+    "lat": 36.3288676,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21011,
+    "company_cd": 11,
+    "line_name_h": "東武桐生線",
+    "lon": 139.3234126,
+    "lat": 36.36939671,
+    "e_status": 0
+  },
+  {
+    "line_cd": 21012,
+    "company_cd": 11,
+    "line_name_h": "東武小泉線",
+    "lon": 139.450654,
+    "lat": 36.25658593,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22001,
+    "company_cd": 12,
+    "line_name_h": "西武池袋線",
+    "lon": 139.4678929,
+    "lat": 35.79126174,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22002,
+    "company_cd": 12,
+    "line_name_h": "西武秩父線",
+    "lon": 139.2047331,
+    "lat": 35.9217046,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22003,
+    "company_cd": 12,
+    "line_name_h": "西武有楽町線",
+    "lon": 139.667595,
+    "lat": 35.740404,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22004,
+    "company_cd": 12,
+    "line_name_h": "西武豊島線",
+    "lon": 139.6515168,
+    "lat": 35.74004317,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22005,
+    "company_cd": 12,
+    "line_name_h": "西武狭山線",
+    "lon": 139.4392487,
+    "lat": 35.77960247,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22006,
+    "company_cd": 12,
+    "line_name_h": "西武山口線",
+    "lon": 139.4314444,
+    "lat": 35.77056761,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22007,
+    "company_cd": 12,
+    "line_name_h": "西武新宿線",
+    "lon": 139.5308649,
+    "lat": 35.77694687,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22008,
+    "company_cd": 12,
+    "line_name_h": "西武拝島線",
+    "lon": 139.4131356,
+    "lat": 35.7328647,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22009,
+    "company_cd": 12,
+    "line_name_h": "西武西武園線",
+    "lon": 139.4573715,
+    "lat": 35.76415058,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22010,
+    "company_cd": 12,
+    "line_name_h": "西武国分寺線",
+    "lon": 139.467741,
+    "lat": 35.7306282,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22011,
+    "company_cd": 12,
+    "line_name_h": "西武多摩湖線",
+    "lon": 139.4685092,
+    "lat": 35.74104813,
+    "e_status": 0
+  },
+  {
+    "line_cd": 22012,
+    "company_cd": 12,
+    "line_name_h": "西武多摩川線",
+    "lon": 139.5135317,
+    "lat": 35.67702828,
+    "e_status": 0
+  },
+  {
+    "line_cd": 23001,
+    "company_cd": 13,
+    "line_name_h": "京成本線",
+    "lon": 140.0722625,
+    "lat": 35.72628887,
+    "e_status": 0
+  },
+  {
+    "line_cd": 23002,
+    "company_cd": 13,
+    "line_name_h": "京成押上線",
+    "lon": 139.8417658,
+    "lat": 35.73700035,
+    "e_status": 0
+  },
+  {
+    "line_cd": 23003,
+    "company_cd": 13,
+    "line_name_h": "京成金町線",
+    "lon": 139.8685851,
+    "lat": 35.76122201,
+    "e_status": 0
+  },
+  {
+    "line_cd": 23004,
+    "company_cd": 13,
+    "line_name_h": "京成千葉線",
+    "lon": 140.0661343,
+    "lat": 35.65068345,
+    "e_status": 0
+  },
+  {
+    "line_cd": 23005,
+    "company_cd": 13,
+    "line_name_h": "京成千原線",
+    "lon": 140.1401424,
+    "lat": 35.57885231,
+    "e_status": 0
+  },
+  {
+    "line_cd": 23006,
+    "company_cd": 13,
+    "line_name_h": "京成成田空港線",
+    "lon": 140.04558,
+    "lat": 35.7834747,
+    "e_status": 0
+  },
+  {
+    "line_cd": 24001,
+    "company_cd": 14,
+    "line_name_h": "京王線",
+    "lon": 139.5335769,
+    "lat": 35.67836429,
+    "e_status": 0
+  },
+  {
+    "line_cd": 24002,
+    "company_cd": 14,
+    "line_name_h": "京王相模原線",
+    "lon": 139.4375162,
+    "lat": 35.625847,
+    "e_status": 0
+  },
+  {
+    "line_cd": 24003,
+    "company_cd": 14,
+    "line_name_h": "京王高尾線",
+    "lon": 139.3084367,
+    "lat": 35.6433159,
+    "e_status": 0
+  },
+  {
+    "line_cd": 24004,
+    "company_cd": 14,
+    "line_name_h": "京王競馬場線",
+    "lon": 139.489623,
+    "lat": 35.66894537,
+    "e_status": 0
+  },
+  {
+    "line_cd": 24005,
+    "company_cd": 14,
+    "line_name_h": "京王動物園線",
+    "lon": 139.4099916,
+    "lat": 35.65746175,
+    "e_status": 0
+  },
+  {
+    "line_cd": 24006,
+    "company_cd": 14,
+    "line_name_h": "京王井の頭線",
+    "lon": 139.6349878,
+    "lat": 35.67668499,
+    "e_status": 0
+  },
+  {
+    "line_cd": 24007,
+    "company_cd": 14,
+    "line_name_h": "京王新線",
+    "lon": 139.6852505,
+    "lat": 35.68049853,
+    "e_status": 0
+  },
+  {
+    "line_cd": 25001,
+    "company_cd": 15,
+    "line_name_h": "小田急小田原線",
+    "lon": 139.4347754,
+    "lat": 35.52853524,
+    "e_status": 0
+  },
+  {
+    "line_cd": 25002,
+    "company_cd": 15,
+    "line_name_h": "小田急江ノ島線",
+    "lon": 139.4497755,
+    "lat": 35.4357481,
+    "e_status": 0
+  },
+  {
+    "line_cd": 25003,
+    "company_cd": 15,
+    "line_name_h": "小田急多摩線",
+    "lon": 139.4602937,
+    "lat": 35.61945835,
+    "e_status": 0
+  },
+  {
+    "line_cd": 26001,
+    "company_cd": 16,
+    "line_name_h": "東急東横線",
+    "lon": 139.668326,
+    "lat": 35.58608049,
+    "e_status": 0
+  },
+  {
+    "line_cd": 26002,
+    "company_cd": 16,
+    "line_name_h": "東急目黒線",
+    "lon": 139.6783513,
+    "lat": 35.60375543,
+    "e_status": 0
+  },
+  {
+    "line_cd": 26003,
+    "company_cd": 16,
+    "line_name_h": "東急田園都市線",
+    "lon": 139.5846592,
+    "lat": 35.58324215,
+    "e_status": 0
+  },
+  {
+    "line_cd": 26004,
+    "company_cd": 16,
+    "line_name_h": "東急大井町線",
+    "lon": 139.6753762,
+    "lat": 35.60702724,
+    "e_status": 0
+  },
+  {
+    "line_cd": 26005,
+    "company_cd": 16,
+    "line_name_h": "東急池上線",
+    "lon": 139.7062394,
+    "lat": 35.59393651,
+    "e_status": 0
+  },
+  {
+    "line_cd": 26006,
+    "company_cd": 16,
+    "line_name_h": "東急多摩川線",
+    "lon": 139.6874327,
+    "lat": 35.57244164,
+    "e_status": 0
+  },
+  {
+    "line_cd": 26007,
+    "company_cd": 16,
+    "line_name_h": "東急世田谷線",
+    "lon": 139.6525419,
+    "lat": 35.65319678,
+    "e_status": 0
+  },
+  {
+    "line_cd": 26008,
+    "company_cd": 16,
+    "line_name_h": "東急こどもの国線",
+    "lon": 139.4878591,
+    "lat": 35.54810976,
+    "e_status": 0
+  },
+  {
+    "line_cd": 27001,
+    "company_cd": 17,
+    "line_name_h": "京急本線",
+    "lon": 139.6654216,
+    "lat": 35.47001317,
+    "e_status": 0
+  },
+  {
+    "line_cd": 27002,
+    "company_cd": 17,
+    "line_name_h": "京急空港線",
+    "lon": 139.7497837,
+    "lat": 35.55500125,
+    "e_status": 0
+  },
+  {
+    "line_cd": 27003,
+    "company_cd": 17,
+    "line_name_h": "京急大師線",
+    "lon": 139.7233,
+    "lat": 35.5356905,
+    "e_status": 0
+  },
+  {
+    "line_cd": 27004,
+    "company_cd": 17,
+    "line_name_h": "京急逗子線",
+    "lon": 139.5988512,
+    "lat": 35.31470435,
+    "e_status": 0
+  },
+  {
+    "line_cd": 27005,
+    "company_cd": 17,
+    "line_name_h": "京急久里浜線",
+    "lon": 139.6682823,
+    "lat": 35.2287079,
+    "e_status": 0
+  },
+  {
+    "line_cd": 28001,
+    "company_cd": 18,
+    "line_name_h": "東京メトロ銀座線",
+    "lon": 139.7572081,
+    "lat": 35.68646095,
+    "e_status": 0
+  },
+  {
+    "line_cd": 28002,
+    "company_cd": 18,
+    "line_name_h": "東京メトロ丸ノ内線",
+    "lon": 139.7004366,
+    "lat": 35.70518514,
+    "e_status": 0
+  },
+  {
+    "line_cd": 28003,
+    "company_cd": 18,
+    "line_name_h": "東京メトロ日比谷線",
+    "lon": 139.7679001,
+    "lat": 35.69469234,
+    "e_status": 0
+  },
+  {
+    "line_cd": 28004,
+    "company_cd": 18,
+    "line_name_h": "東京メトロ東西線",
+    "lon": 139.8154913,
+    "lat": 35.68326533,
+    "e_status": 0
+  },
+  {
+    "line_cd": 28005,
+    "company_cd": 18,
+    "line_name_h": "東京メトロ千代田線",
+    "lon": 139.7558612,
+    "lat": 35.72301167,
+    "e_status": 0
+  },
+  {
+    "line_cd": 28006,
+    "company_cd": 18,
+    "line_name_h": "東京メトロ有楽町線",
+    "lon": 139.7042043,
+    "lat": 35.73316552,
+    "e_status": 0
+  },
+  {
+    "line_cd": 28008,
+    "company_cd": 18,
+    "line_name_h": "東京メトロ半蔵門線",
+    "lon": 139.7652271,
+    "lat": 35.68813211,
+    "e_status": 0
+  },
+  {
+    "line_cd": 28009,
+    "company_cd": 18,
+    "line_name_h": "東京メトロ南北線",
+    "lon": 139.7343319,
+    "lat": 35.71029972,
+    "e_status": 0
+  },
+  {
+    "line_cd": 28010,
+    "company_cd": 18,
+    "line_name_h": "東京メトロ副都心線",
+    "lon": 139.6866635,
+    "lat": 35.73144201,
+    "e_status": 0
+  },
+  {
+    "line_cd": 29001,
+    "company_cd": 19,
+    "line_name_h": "相鉄本線",
+    "lon": 139.5091433,
+    "lat": 35.46560375,
+    "e_status": 0
+  },
+  {
+    "line_cd": 29002,
+    "company_cd": 19,
+    "line_name_h": "相鉄いずみ野線",
+    "lon": 139.4964929,
+    "lat": 35.43154135,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30001,
+    "company_cd": 20,
+    "line_name_h": "名鉄名古屋本線",
+    "lon": 137.0464891,
+    "lat": 35.09024466,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30002,
+    "company_cd": 20,
+    "line_name_h": "名鉄豊川線",
+    "lon": 137.3620843,
+    "lat": 34.82916687,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30003,
+    "company_cd": 20,
+    "line_name_h": "名鉄西尾線",
+    "lon": 137.07579,
+    "lat": 34.89567965,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30004,
+    "company_cd": 20,
+    "line_name_h": "名鉄蒲郡線",
+    "lon": 137.1490535,
+    "lat": 34.83015508,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30005,
+    "company_cd": 20,
+    "line_name_h": "名鉄三河線",
+    "lon": 137.0397446,
+    "lat": 35.0278918,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30006,
+    "company_cd": 20,
+    "line_name_h": "名鉄豊田線",
+    "lon": 137.0949593,
+    "lat": 35.12029624,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30007,
+    "company_cd": 20,
+    "line_name_h": "名鉄空港線",
+    "lon": 136.8275426,
+    "lat": 34.87838959,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30008,
+    "company_cd": 20,
+    "line_name_h": "名鉄常滑線",
+    "lon": 136.8720209,
+    "lat": 35.05218409,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30009,
+    "company_cd": 20,
+    "line_name_h": "名鉄河和線",
+    "lon": 136.9060466,
+    "lat": 34.92375177,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30010,
+    "company_cd": 20,
+    "line_name_h": "名鉄知多新線",
+    "lon": 136.8807923,
+    "lat": 34.80481608,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30011,
+    "company_cd": 20,
+    "line_name_h": "名鉄築港線",
+    "lon": 136.9056632,
+    "lat": 35.0918768,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30012,
+    "company_cd": 20,
+    "line_name_h": "名鉄瀬戸線",
+    "lon": 136.9925433,
+    "lat": 35.20783035,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30013,
+    "company_cd": 20,
+    "line_name_h": "名鉄津島線",
+    "lon": 136.778182,
+    "lat": 35.19835631,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30014,
+    "company_cd": 20,
+    "line_name_h": "名鉄尾西線",
+    "lon": 136.7443573,
+    "lat": 35.24366672,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30015,
+    "company_cd": 20,
+    "line_name_h": "名鉄犬山線",
+    "lon": 136.8898647,
+    "lat": 35.31165711,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30016,
+    "company_cd": 20,
+    "line_name_h": "名鉄各務原線",
+    "lon": 136.8532538,
+    "lat": 35.40320428,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30017,
+    "company_cd": 20,
+    "line_name_h": "名鉄広見線",
+    "lon": 137.0289762,
+    "lat": 35.41784153,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30018,
+    "company_cd": 20,
+    "line_name_h": "名鉄小牧線",
+    "lon": 136.9396133,
+    "lat": 35.29631352,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30019,
+    "company_cd": 20,
+    "line_name_h": "名鉄モンキーパークモノレール線",
+    "lon": 136.9511615,
+    "lat": 35.39061782,
+    "e_status": 2
+  },
+  {
+    "line_cd": 30020,
+    "company_cd": 20,
+    "line_name_h": "名鉄竹鼻線",
+    "lon": 136.7325031,
+    "lat": 35.34935108,
+    "e_status": 0
+  },
+  {
+    "line_cd": 30021,
+    "company_cd": 20,
+    "line_name_h": "名鉄羽島線",
+    "lon": 136.693134,
+    "lat": 35.31404976,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31001,
+    "company_cd": 21,
+    "line_name_h": "近鉄難波線",
+    "lon": 135.5271582,
+    "lat": 34.66336378,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31002,
+    "company_cd": 21,
+    "line_name_h": "近鉄橿原線",
+    "lon": 135.7855105,
+    "lat": 34.59665269,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31003,
+    "company_cd": 21,
+    "line_name_h": "近鉄南大阪線",
+    "lon": 135.653052,
+    "lat": 34.57245205,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31004,
+    "company_cd": 21,
+    "line_name_h": "近鉄養老線",
+    "lon": 136.6320124,
+    "lat": 35.25923222,
+    "e_status": 2
+  },
+  {
+    "line_cd": 31005,
+    "company_cd": 21,
+    "line_name_h": "近鉄大阪線",
+    "lon": 135.872054,
+    "lat": 34.61556505,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31006,
+    "company_cd": 21,
+    "line_name_h": "近鉄伊賀線",
+    "lon": 136.1392827,
+    "lat": 34.73336053,
+    "e_status": 2
+  },
+  {
+    "line_cd": 31007,
+    "company_cd": 21,
+    "line_name_h": "近鉄吉野線",
+    "lon": 135.794504,
+    "lat": 34.42943968,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31008,
+    "company_cd": 21,
+    "line_name_h": "近鉄湯の山線",
+    "lon": 136.5443642,
+    "lat": 34.99419291,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31009,
+    "company_cd": 21,
+    "line_name_h": "近鉄山田線",
+    "lon": 136.5903378,
+    "lat": 34.56980041,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31010,
+    "company_cd": 21,
+    "line_name_h": "近鉄鳥羽線",
+    "lon": 136.7727458,
+    "lat": 34.4838102,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31011,
+    "company_cd": 21,
+    "line_name_h": "近鉄天理線",
+    "lon": 135.8037012,
+    "lat": 34.602763,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31012,
+    "company_cd": 21,
+    "line_name_h": "近鉄道明寺線",
+    "lon": 135.6220294,
+    "lat": 34.58011802,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31013,
+    "company_cd": 247,
+    "line_name_h": "内部線",
+    "lon": 136.6051365,
+    "lat": 34.94951463,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31014,
+    "company_cd": 247,
+    "line_name_h": "八王子線",
+    "lon": 136.6077976,
+    "lat": 34.95820819,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31015,
+    "company_cd": 21,
+    "line_name_h": "近鉄志摩線",
+    "lon": 136.8269031,
+    "lat": 34.40319761,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31016,
+    "company_cd": 21,
+    "line_name_h": "近鉄生駒線",
+    "lon": 135.7029186,
+    "lat": 34.65409575,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31017,
+    "company_cd": 21,
+    "line_name_h": "近鉄田原本線",
+    "lon": 135.743514,
+    "lat": 34.57463758,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31018,
+    "company_cd": 21,
+    "line_name_h": "近鉄御所線",
+    "lon": 135.7248733,
+    "lat": 34.48800185,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31019,
+    "company_cd": 21,
+    "line_name_h": "近鉄鈴鹿線",
+    "lon": 136.5827958,
+    "lat": 34.87798499,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31020,
+    "company_cd": 21,
+    "line_name_h": "近鉄奈良線",
+    "lon": 135.6903788,
+    "lat": 34.68769268,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31021,
+    "company_cd": 21,
+    "line_name_h": "近鉄信貴線",
+    "lon": 135.632634,
+    "lat": 34.62506252,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31022,
+    "company_cd": 21,
+    "line_name_h": "近鉄長野線",
+    "lon": 135.5986759,
+    "lat": 34.50049475,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31023,
+    "company_cd": 21,
+    "line_name_h": "近鉄けいはんな線",
+    "lon": 135.6758638,
+    "lat": 34.69894594,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31024,
+    "company_cd": 21,
+    "line_name_h": "近鉄西信貴鋼索線",
+    "lon": 135.647956,
+    "lat": 34.61767063,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31025,
+    "company_cd": 21,
+    "line_name_h": "近鉄京都線",
+    "lon": 135.7855993,
+    "lat": 34.85398933,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31026,
+    "company_cd": 21,
+    "line_name_h": "近鉄生駒鋼索線",
+    "lon": 135.688804,
+    "lat": 34.6858188,
+    "e_status": 0
+  },
+  {
+    "line_cd": 31027,
+    "company_cd": 21,
+    "line_name_h": "近鉄名古屋線",
+    "lon": 136.643873,
+    "lat": 34.94306111,
+    "e_status": 0
+  },
+  {
+    "line_cd": 32001,
+    "company_cd": 22,
+    "line_name_h": "南海本線",
+    "lon": 135.3620307,
+    "lat": 34.49540979,
+    "e_status": 0
+  },
+  {
+    "line_cd": 32002,
+    "company_cd": 22,
+    "line_name_h": "南海空港線",
+    "lon": 135.2840674,
+    "lat": 34.42306792,
+    "e_status": 0
+  },
+  {
+    "line_cd": 32003,
+    "company_cd": 22,
+    "line_name_h": "南海和歌山港線",
+    "lon": 135.1551397,
+    "lat": 34.23138086,
+    "e_status": 0
+  },
+  {
+    "line_cd": 32004,
+    "company_cd": 22,
+    "line_name_h": "南海高師浜線",
+    "lon": 135.4387343,
+    "lat": 34.53069292,
+    "e_status": 0
+  },
+  {
+    "line_cd": 32005,
+    "company_cd": 22,
+    "line_name_h": "南海加太線",
+    "lon": 135.1256245,
+    "lat": 34.26437499,
+    "e_status": 0
+  },
+  {
+    "line_cd": 32006,
+    "company_cd": 22,
+    "line_name_h": "南海多奈川線",
+    "lon": 135.1448043,
+    "lat": 34.31836786,
+    "e_status": 0
+  },
+  {
+    "line_cd": 32007,
+    "company_cd": 22,
+    "line_name_h": "南海高野線",
+    "lon": 135.5432731,
+    "lat": 34.46533853,
+    "e_status": 0
+  },
+  {
+    "line_cd": 32008,
+    "company_cd": 22,
+    "line_name_h": "南海高野山ケーブル",
+    "lon": 135.5799343,
+    "lat": 34.23156624,
+    "e_status": 0
+  },
+  {
+    "line_cd": 32009,
+    "company_cd": 22,
+    "line_name_h": "南海汐見橋線",
+    "lon": 135.4864027,
+    "lat": 34.64835159,
+    "e_status": 0
+  },
+  {
+    "line_cd": 33001,
+    "company_cd": 23,
+    "line_name_h": "京阪本線",
+    "lon": 135.6705644,
+    "lat": 34.84957679,
+    "e_status": 0
+  },
+  {
+    "line_cd": 33002,
+    "company_cd": 23,
+    "line_name_h": "京阪宇治線",
+    "lon": 135.7868899,
+    "lat": 34.91898738,
+    "e_status": 0
+  },
+  {
+    "line_cd": 33003,
+    "company_cd": 23,
+    "line_name_h": "京阪交野線",
+    "lon": 135.6678686,
+    "lat": 34.79400316,
+    "e_status": 0
+  },
+  {
+    "line_cd": 33004,
+    "company_cd": 23,
+    "line_name_h": "京阪鴨東線",
+    "lon": 135.772187,
+    "lat": 35.02313234,
+    "e_status": 0
+  },
+  {
+    "line_cd": 33005,
+    "company_cd": 23,
+    "line_name_h": "京阪鋼索線",
+    "lon": 135.6997063,
+    "lat": 34.88334886,
+    "e_status": 0
+  },
+  {
+    "line_cd": 33006,
+    "company_cd": 23,
+    "line_name_h": "京阪石山坂本線",
+    "lon": 135.8736875,
+    "lat": 35.02135481,
+    "e_status": 0
+  },
+  {
+    "line_cd": 33007,
+    "company_cd": 23,
+    "line_name_h": "京阪京津線",
+    "lon": 135.8351757,
+    "lat": 35.00559948,
+    "e_status": 0
+  },
+  {
+    "line_cd": 33008,
+    "company_cd": 23,
+    "line_name_h": "京阪中之島線",
+    "lon": 135.5004281,
+    "lat": 34.69339585,
+    "e_status": 0
+  },
+  {
+    "line_cd": 34001,
+    "company_cd": 24,
+    "line_name_h": "阪急神戸本線",
+    "lon": 135.3535625,
+    "lat": 34.73581893,
+    "e_status": 0
+  },
+  {
+    "line_cd": 34002,
+    "company_cd": 24,
+    "line_name_h": "阪急宝塚本線",
+    "lon": 135.4343471,
+    "lat": 34.78606114,
+    "e_status": 0
+  },
+  {
+    "line_cd": 34003,
+    "company_cd": 24,
+    "line_name_h": "阪急京都本線",
+    "lon": 135.6107341,
+    "lat": 34.86050585,
+    "e_status": 0
+  },
+  {
+    "line_cd": 34004,
+    "company_cd": 24,
+    "line_name_h": "阪急今津線",
+    "lon": 135.3546653,
+    "lat": 34.77069205,
+    "e_status": 0
+  },
+  {
+    "line_cd": 34005,
+    "company_cd": 24,
+    "line_name_h": "阪急甲陽線",
+    "lon": 135.3287615,
+    "lat": 34.75283869,
+    "e_status": 0
+  },
+  {
+    "line_cd": 34006,
+    "company_cd": 24,
+    "line_name_h": "阪急伊丹線",
+    "lon": 135.4146048,
+    "lat": 34.77006123,
+    "e_status": 0
+  },
+  {
+    "line_cd": 34007,
+    "company_cd": 24,
+    "line_name_h": "阪急箕面線",
+    "lon": 135.4602157,
+    "lat": 34.82297851,
+    "e_status": 0
+  },
+  {
+    "line_cd": 34008,
+    "company_cd": 24,
+    "line_name_h": "阪急千里線",
+    "lon": 135.5133937,
+    "lat": 34.77089106,
+    "e_status": 0
+  },
+  {
+    "line_cd": 34009,
+    "company_cd": 24,
+    "line_name_h": "阪急嵐山線",
+    "lon": 135.6910954,
+    "lat": 34.99649849,
+    "e_status": 0
+  },
+  {
+    "line_cd": 35001,
+    "company_cd": 25,
+    "line_name_h": "阪神本線",
+    "lon": 135.3388145,
+    "lat": 34.72713809,
+    "e_status": 0
+  },
+  {
+    "line_cd": 35002,
+    "company_cd": 25,
+    "line_name_h": "阪神なんば線",
+    "lon": 135.454218,
+    "lat": 34.69437586,
+    "e_status": 0
+  },
+  {
+    "line_cd": 35003,
+    "company_cd": 25,
+    "line_name_h": "阪神武庫川線",
+    "lon": 135.3792246,
+    "lat": 34.71224333,
+    "e_status": 0
+  },
+  {
+    "line_cd": 36001,
+    "company_cd": 26,
+    "line_name_h": "西鉄天神大牟田線",
+    "lon": 130.4695301,
+    "lat": 33.33736616,
+    "e_status": 0
+  },
+  {
+    "line_cd": 36002,
+    "company_cd": 26,
+    "line_name_h": "西鉄太宰府線",
+    "lon": 130.525471,
+    "lat": 33.51078067,
+    "e_status": 0
+  },
+  {
+    "line_cd": 36003,
+    "company_cd": 26,
+    "line_name_h": "西鉄甘木線",
+    "lon": 130.6000395,
+    "lat": 33.3745797,
+    "e_status": 0
+  },
+  {
+    "line_cd": 36004,
+    "company_cd": 26,
+    "line_name_h": "西鉄貝塚線",
+    "lon": 130.4465091,
+    "lat": 33.71197663,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99101,
+    "company_cd": 101,
+    "line_name_h": "札幌市営地下鉄東西線",
+    "lon": 141.3772839,
+    "lat": 43.05654941,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99102,
+    "company_cd": 101,
+    "line_name_h": "札幌市営地下鉄南北線",
+    "lon": 141.3433322,
+    "lat": 43.06454354,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99103,
+    "company_cd": 101,
+    "line_name_h": "札幌市営地下鉄東豊線",
+    "lon": 141.3730984,
+    "lat": 43.07195212,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99104,
+    "company_cd": 101,
+    "line_name_h": "札幌市電山鼻線",
+    "lon": 141.3441983,
+    "lat": 43.04683982,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99105,
+    "company_cd": 102,
+    "line_name_h": "函館市電２系統",
+    "lon": 140.7473852,
+    "lat": 41.78054066,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99106,
+    "company_cd": 102,
+    "line_name_h": "函館市電５系統",
+    "lon": 140.7437262,
+    "lat": 41.77956913,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99107,
+    "company_cd": 103,
+    "line_name_h": "北海道ちほく高原鉄道ふるさと銀河線",
+    "lon": 143.6400361,
+    "lat": 43.42292395,
+    "e_status": 2
+  },
+  {
+    "line_cd": 99108,
+    "company_cd": 248,
+    "line_name_h": "道南いさりび鉄道線",
+    "lon": 140.5858612,
+    "lat": 41.72930517,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99201,
+    "company_cd": 104,
+    "line_name_h": "津軽鉄道線",
+    "lon": 140.4475315,
+    "lat": 40.89185142,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99202,
+    "company_cd": 105,
+    "line_name_h": "弘南鉄道弘南線",
+    "lon": 140.5487135,
+    "lat": 40.61175482,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99203,
+    "company_cd": 105,
+    "line_name_h": "弘南鉄道大鰐線",
+    "lon": 140.5090532,
+    "lat": 40.56021152,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99204,
+    "company_cd": 106,
+    "line_name_h": "十和田観光電鉄",
+    "lon": 141.2927017,
+    "lat": 40.64340823,
+    "e_status": 2
+  },
+  {
+    "line_cd": 99205,
+    "company_cd": 107,
+    "line_name_h": "いわて銀河鉄道線",
+    "lon": 141.188052,
+    "lat": 40.0496578,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99206,
+    "company_cd": 108,
+    "line_name_h": "青い森鉄道線",
+    "lon": 141.0521792,
+    "lat": 40.66322161,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99207,
+    "company_cd": 109,
+    "line_name_h": "三陸鉄道北リアス線",
+    "lon": 141.8597993,
+    "lat": 39.91336094,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99208,
+    "company_cd": 109,
+    "line_name_h": "三陸鉄道南リアス線",
+    "lon": 141.8126076,
+    "lat": 39.16113256,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99209,
+    "company_cd": 110,
+    "line_name_h": "秋田内陸縦貫鉄道秋田内陸線",
+    "lon": 140.4689341,
+    "lat": 39.91759531,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99210,
+    "company_cd": 111,
+    "line_name_h": "由利高原鉄道鳥海山ろく線",
+    "lon": 140.0943788,
+    "lat": 39.3150053,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99211,
+    "company_cd": 112,
+    "line_name_h": "山形鉄道フラワー長井線",
+    "lon": 140.082424,
+    "lat": 38.12608279,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99212,
+    "company_cd": 113,
+    "line_name_h": "くりはら田園鉄道線",
+    "lon": 141.0332668,
+    "lat": 38.81574935,
+    "e_status": 2
+  },
+  {
+    "line_cd": 99213,
+    "company_cd": 114,
+    "line_name_h": "阿武隈急行線",
+    "lon": 140.6629175,
+    "lat": 37.9191756,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99214,
+    "company_cd": 115,
+    "line_name_h": "仙台市営地下鉄南北線",
+    "lon": 140.8799934,
+    "lat": 38.27625168,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99218,
+    "company_cd": 115,
+    "line_name_h": "仙台市営地下鉄東西線",
+    "lon": 140.8881569,
+    "lat": 38.26109769,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99215,
+    "company_cd": 116,
+    "line_name_h": "福島交通飯坂線",
+    "lon": 140.4531639,
+    "lat": 37.79516157,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99216,
+    "company_cd": 117,
+    "line_name_h": "会津鉄道会津線",
+    "lon": 139.848048,
+    "lat": 37.28675951,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99217,
+    "company_cd": 118,
+    "line_name_h": "仙台空港鉄道仙台空港線",
+    "lon": 140.9057989,
+    "lat": 38.16179524,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99301,
+    "company_cd": 119,
+    "line_name_h": "都営大江戸線",
+    "lon": 139.7137042,
+    "lat": 35.70754623,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99302,
+    "company_cd": 119,
+    "line_name_h": "都営浅草線",
+    "lon": 139.7586038,
+    "lat": 35.66226194,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99303,
+    "company_cd": 119,
+    "line_name_h": "都営三田線",
+    "lon": 139.7032176,
+    "lat": 35.71883584,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99304,
+    "company_cd": 119,
+    "line_name_h": "都営新宿線",
+    "lon": 139.809404,
+    "lat": 35.68917479,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99305,
+    "company_cd": 119,
+    "line_name_h": "都営都電荒川線",
+    "lon": 139.748615,
+    "lat": 35.73501693,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99342,
+    "company_cd": 119,
+    "line_name_h": "日暮里・舎人ライナー",
+    "lon": 139.7694965,
+    "lat": 35.78182569,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99306,
+    "company_cd": 120,
+    "line_name_h": "秩父鉄道秩父本線",
+    "lon": 139.2068139,
+    "lat": 36.1009953,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99307,
+    "company_cd": 121,
+    "line_name_h": "埼玉高速鉄道線",
+    "lon": 139.727016,
+    "lat": 35.84233268,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99308,
+    "company_cd": 122,
+    "line_name_h": "いすみ鉄道いすみ線",
+    "lon": 140.2913395,
+    "lat": 35.26741095,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99309,
+    "company_cd": 123,
+    "line_name_h": "首都圏新都市鉄道つくばエクスプレス",
+    "lon": 139.9375093,
+    "lat": 35.90577191,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99310,
+    "company_cd": 124,
+    "line_name_h": "みなとみらい21線",
+    "lon": 139.6360988,
+    "lat": 35.45568264,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99311,
+    "company_cd": 125,
+    "line_name_h": "ゆりかもめ東京臨海新交通臨海線",
+    "lon": 139.7749498,
+    "lat": 35.64286985,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99312,
+    "company_cd": 126,
+    "line_name_h": "わたらせ渓谷鐵道わたらせ渓谷線",
+    "lon": 139.3507558,
+    "lat": 36.53324025,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99313,
+    "company_cd": 127,
+    "line_name_h": "山万ユーカリが丘線",
+    "lon": 140.1530485,
+    "lat": 35.73088307,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99314,
+    "company_cd": 128,
+    "line_name_h": "伊豆箱根鉄道大雄山線",
+    "lon": 139.1309474,
+    "lat": 35.28939808,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99315,
+    "company_cd": 129,
+    "line_name_h": "ひたちなか海浜鉄道湊線",
+    "lon": 140.5729552,
+    "lat": 36.37147623,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99316,
+    "company_cd": 130,
+    "line_name_h": "横浜市高速鉄道1号線・3号線",
+    "lon": 139.5514823,
+    "lat": 35.4877675,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99343,
+    "company_cd": 130,
+    "line_name_h": "横浜市高速鉄道4号線",
+    "lon": 139.5869369,
+    "lat": 35.5472458,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99317,
+    "company_cd": 131,
+    "line_name_h": "横浜新都市交通金沢シーサイドライン",
+    "lon": 139.6311443,
+    "lat": 35.36215675,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99318,
+    "company_cd": 132,
+    "line_name_h": "関東鉄道常総線",
+    "lon": 139.9901393,
+    "lat": 36.11988505,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99319,
+    "company_cd": 132,
+    "line_name_h": "関東鉄道竜ヶ崎線",
+    "lon": 140.1573067,
+    "lat": 35.91893165,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99320,
+    "company_cd": 133,
+    "line_name_h": "江ノ島電鉄線",
+    "lon": 139.5124071,
+    "lat": 35.3260882,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99321,
+    "company_cd": 134,
+    "line_name_h": "埼玉新都市交通伊奈線",
+    "lon": 139.6162808,
+    "lat": 35.96269513,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99322,
+    "company_cd": 135,
+    "line_name_h": "鹿島鉄道線",
+    "lon": 140.3911293,
+    "lat": 36.15897227,
+    "e_status": 2
+  },
+  {
+    "line_cd": 99323,
+    "company_cd": 136,
+    "line_name_h": "鹿島臨海鉄道大洗鹿島線",
+    "lon": 140.5428336,
+    "lat": 36.18730568,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99324,
+    "company_cd": 137,
+    "line_name_h": "芝山鉄道線",
+    "lon": 140.3923617,
+    "lat": 35.76356243,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99325,
+    "company_cd": 138,
+    "line_name_h": "小湊鉄道線",
+    "lon": 140.1273986,
+    "lat": 35.39584849,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99326,
+    "company_cd": 139,
+    "line_name_h": "湘南モノレール",
+    "lon": 139.5102446,
+    "lat": 35.33223249,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99327,
+    "company_cd": 140,
+    "line_name_h": "上信電鉄",
+    "lon": 138.9156343,
+    "lat": 36.26619008,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99328,
+    "company_cd": 141,
+    "line_name_h": "上毛電気鉄道上毛線",
+    "lon": 139.1911683,
+    "lat": 36.41704838,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99329,
+    "company_cd": 142,
+    "line_name_h": "新京成電鉄新京成線",
+    "lon": 139.9704263,
+    "lat": 35.75905071,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99330,
+    "company_cd": 143,
+    "line_name_h": "真岡鐵道真岡線",
+    "lon": 140.0426815,
+    "lat": 36.44502033,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99331,
+    "company_cd": 144,
+    "line_name_h": "千葉都市モノレール１号線",
+    "lon": 140.1131079,
+    "lat": 35.60826509,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99332,
+    "company_cd": 144,
+    "line_name_h": "千葉都市モノレール２号線",
+    "lon": 140.1410858,
+    "lat": 35.62639177,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99333,
+    "company_cd": 145,
+    "line_name_h": "流鉄流山線",
+    "lon": 139.9119926,
+    "lat": 35.83792664,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99334,
+    "company_cd": 146,
+    "line_name_h": "多摩都市モノレール線",
+    "lon": 139.4216985,
+    "lat": 35.69743141,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99335,
+    "company_cd": 147,
+    "line_name_h": "銚子電気鉄道線",
+    "lon": 140.8474032,
+    "lat": 35.71912821,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99336,
+    "company_cd": 148,
+    "line_name_h": "東京モノレール羽田空港線",
+    "lon": 139.7632862,
+    "lat": 35.59102281,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99337,
+    "company_cd": 149,
+    "line_name_h": "東京臨海高速鉄道りんかい線",
+    "lon": 139.7661296,
+    "lat": 35.62373301,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99338,
+    "company_cd": 150,
+    "line_name_h": "東葉高速鉄道東葉高速線",
+    "lon": 140.0380473,
+    "lat": 35.719061,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99339,
+    "company_cd": 151,
+    "line_name_h": "箱根登山鉄道鉄道線",
+    "lon": 139.099491,
+    "lat": 35.24597909,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99340,
+    "company_cd": 152,
+    "line_name_h": "北総鉄道北総線",
+    "lon": 140.037845,
+    "lat": 35.78346286,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99341,
+    "company_cd": 153,
+    "line_name_h": "野岩鉄道会津鬼怒川線",
+    "lon": 139.7013327,
+    "lat": 36.98733557,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99344,
+    "company_cd": 151,
+    "line_name_h": "箱根登山鉄道鋼索線",
+    "lon": 139.0414238,
+    "lat": 35.248167,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99401,
+    "company_cd": 154,
+    "line_name_h": "富士急行線",
+    "lon": 138.8607561,
+    "lat": 35.55367112,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99402,
+    "company_cd": 155,
+    "line_name_h": "北越急行ほくほく線",
+    "lon": 138.5909943,
+    "lat": 37.13966175,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99403,
+    "company_cd": 156,
+    "line_name_h": "しなの鉄道線",
+    "lon": 138.3174292,
+    "lat": 36.41942391,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99427,
+    "company_cd": 156,
+    "line_name_h": "北しなの線",
+    "lon": 138.2105017,
+    "lat": 36.75530604,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99404,
+    "company_cd": 157,
+    "line_name_h": "上田電鉄別所線",
+    "lon": 138.2109223,
+    "lat": 36.37625258,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99405,
+    "company_cd": 158,
+    "line_name_h": "長野電鉄長野線",
+    "lon": 138.3042523,
+    "lat": 36.7018593,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99406,
+    "company_cd": 158,
+    "line_name_h": "長野電鉄屋代線",
+    "lon": 138.2119355,
+    "lat": 36.59924925,
+    "e_status": 2
+  },
+  {
+    "line_cd": 99407,
+    "company_cd": 159,
+    "line_name_h": "アルピコ交通上高地線",
+    "lon": 137.8973825,
+    "lat": 36.21371738,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99408,
+    "company_cd": 160,
+    "line_name_h": "富山地鉄本線",
+    "lon": 137.3897613,
+    "lat": 36.78988244,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99409,
+    "company_cd": 160,
+    "line_name_h": "富山地鉄立山線",
+    "lon": 137.3705508,
+    "lat": 36.63259704,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99410,
+    "company_cd": 160,
+    "line_name_h": "富山地鉄不二越・上滝線",
+    "lon": 137.252526,
+    "lat": 36.65497801,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99411,
+    "company_cd": 161,
+    "line_name_h": "神岡鉄道神岡線",
+    "lon": 137.2728078,
+    "lat": 36.40433317,
+    "e_status": 2
+  },
+  {
+    "line_cd": 99412,
+    "company_cd": 162,
+    "line_name_h": "黒部峡谷鉄道本線",
+    "lon": 137.6293364,
+    "lat": 36.77139821,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99413,
+    "company_cd": 160,
+    "line_name_h": "富山地鉄市内線",
+    "lon": 137.2104899,
+    "lat": 36.68749219,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99422,
+    "company_cd": 160,
+    "line_name_h": "富山地鉄富山都心線",
+    "lon": 137.2128868,
+    "lat": 36.69553915,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99414,
+    "company_cd": 163,
+    "line_name_h": "万葉線",
+    "lon": 137.0519879,
+    "lat": 36.76865393,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99415,
+    "company_cd": 164,
+    "line_name_h": "富山ライトレール",
+    "lon": 137.2273701,
+    "lat": 36.73584007,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99416,
+    "company_cd": 165,
+    "line_name_h": "北陸鉄道石川線",
+    "lon": 136.6276302,
+    "lat": 36.50748931,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99417,
+    "company_cd": 165,
+    "line_name_h": "北陸鉄道浅野川線",
+    "lon": 136.6412445,
+    "lat": 36.61101108,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99423,
+    "company_cd": 244,
+    "line_name_h": "日本海ひすいライン",
+    "lon": 138.0056284,
+    "lat": 37.09275022,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99424,
+    "company_cd": 244,
+    "line_name_h": "妙高はねうまライン",
+    "lon": 138.0056284,
+    "lat": 37.09275022,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99425,
+    "company_cd": 245,
+    "line_name_h": "あいの風とやま鉄道線",
+    "lon": 137.2146129,
+    "lat": 36.68415994,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99426,
+    "company_cd": 246,
+    "line_name_h": "IRいしかわ鉄道株式会社",
+    "lon": 136.8520641,
+    "lat": 36.66188604,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99418,
+    "company_cd": 166,
+    "line_name_h": "のと鉄道七尾線",
+    "lon": 136.9044154,
+    "lat": 37.12448507,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99419,
+    "company_cd": 167,
+    "line_name_h": "えちぜん鉄道勝山永平寺線",
+    "lon": 136.3513615,
+    "lat": 36.08641898,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99420,
+    "company_cd": 167,
+    "line_name_h": "えちぜん鉄道三国芦原線",
+    "lon": 136.1919527,
+    "lat": 36.16279193,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99421,
+    "company_cd": 168,
+    "line_name_h": "福井鉄道福武線",
+    "lon": 136.2068054,
+    "lat": 36.01077557,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99501,
+    "company_cd": 169,
+    "line_name_h": "伊豆急行線",
+    "lon": 139.0415898,
+    "lat": 34.82442966,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99502,
+    "company_cd": 128,
+    "line_name_h": "伊豆箱根鉄道駿豆線",
+    "lon": 138.9315606,
+    "lat": 35.05660799,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99503,
+    "company_cd": 170,
+    "line_name_h": "岳南鉄道線",
+    "lon": 138.7141214,
+    "lat": 35.15955767,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99504,
+    "company_cd": 171,
+    "line_name_h": "静岡鉄道静岡清水線",
+    "lon": 138.4390581,
+    "lat": 34.99815891,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99505,
+    "company_cd": 172,
+    "line_name_h": "天竜浜名湖鉄道天竜浜名湖線",
+    "lon": 137.7304712,
+    "lat": 34.82776372,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99506,
+    "company_cd": 173,
+    "line_name_h": "遠州鉄道鉄道線",
+    "lon": 137.7761985,
+    "lat": 34.7815717,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99507,
+    "company_cd": 174,
+    "line_name_h": "大井川鐵道大井川本線",
+    "lon": 138.1072522,
+    "lat": 34.96974307,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99508,
+    "company_cd": 174,
+    "line_name_h": "大井川鐵道井川線",
+    "lon": 138.1617609,
+    "lat": 35.16819152,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99509,
+    "company_cd": 175,
+    "line_name_h": "西名古屋港線",
+    "lon": 136.8650634,
+    "lat": 35.12536651,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99510,
+    "company_cd": 176,
+    "line_name_h": "東海交通事業城北線",
+    "lon": 136.8966625,
+    "lat": 35.22929996,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99511,
+    "company_cd": 177,
+    "line_name_h": "愛知環状鉄道線",
+    "lon": 137.1221882,
+    "lat": 35.12130634,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99512,
+    "company_cd": 178,
+    "line_name_h": "東部丘陵線",
+    "lon": 137.0600158,
+    "lat": 35.17115619,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99513,
+    "company_cd": 179,
+    "line_name_h": "名古屋市営地下鉄東山線",
+    "lon": 136.9226337,
+    "lat": 35.16914033,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99514,
+    "company_cd": 179,
+    "line_name_h": "名古屋市営地下鉄名城線",
+    "lon": 136.9328974,
+    "lat": 35.16054372,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99515,
+    "company_cd": 179,
+    "line_name_h": "名古屋市営地下鉄名港線",
+    "lon": 136.8896685,
+    "lat": 35.12510133,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99516,
+    "company_cd": 179,
+    "line_name_h": "名古屋市営地下鉄鶴舞線",
+    "lon": 136.9361169,
+    "lat": 35.17099011,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99517,
+    "company_cd": 179,
+    "line_name_h": "名古屋市営地下鉄桜通線",
+    "lon": 136.9382244,
+    "lat": 35.14066755,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99518,
+    "company_cd": 179,
+    "line_name_h": "名古屋市営地下鉄上飯田線",
+    "lon": 136.929713,
+    "lat": 35.20122208,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99519,
+    "company_cd": 180,
+    "line_name_h": "桃花台新交通",
+    "lon": 136.9585551,
+    "lat": 35.29823353,
+    "e_status": 2
+  },
+  {
+    "line_cd": 99520,
+    "company_cd": 181,
+    "line_name_h": "豊橋鉄道渥美線",
+    "lon": 137.3303607,
+    "lat": 34.70354168,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99521,
+    "company_cd": 181,
+    "line_name_h": "豊橋鉄道東田本線",
+    "lon": 137.4057546,
+    "lat": 34.76500606,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99522,
+    "company_cd": 181,
+    "line_name_h": "豊橋鉄道運動公園前線",
+    "lon": 137.4220566,
+    "lat": 34.76186984,
+    "e_status": 2
+  },
+  {
+    "line_cd": 99523,
+    "company_cd": 182,
+    "line_name_h": "ガイドウェイバス志段味線",
+    "lon": 136.9611979,
+    "lat": 35.20558123,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99524,
+    "company_cd": 183,
+    "line_name_h": "明知鉄道明知線",
+    "lon": 137.4120125,
+    "lat": 35.38280304,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99525,
+    "company_cd": 184,
+    "line_name_h": "長良川鉄道越美南線",
+    "lon": 136.9272076,
+    "lat": 35.71007664,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99526,
+    "company_cd": 185,
+    "line_name_h": "樽見鉄道樽見線",
+    "lon": 136.6283188,
+    "lat": 35.51524594,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99528,
+    "company_cd": 186,
+    "line_name_h": "三岐鉄道三岐線",
+    "lon": 136.544136,
+    "lat": 35.08747244,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99529,
+    "company_cd": 186,
+    "line_name_h": "三岐鉄道北勢線",
+    "lon": 136.5984984,
+    "lat": 35.09462668,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99530,
+    "company_cd": 187,
+    "line_name_h": "伊勢鉄道伊勢線",
+    "lon": 136.5523658,
+    "lat": 34.83391616,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99531,
+    "company_cd": 188,
+    "line_name_h": "伊賀鉄道伊賀線",
+    "lon": 136.1396261,
+    "lat": 34.73336053,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99532,
+    "company_cd": 189,
+    "line_name_h": "養老鉄道養老線",
+    "lon": 136.6223994,
+    "lat": 35.26596009,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99601,
+    "company_cd": 190,
+    "line_name_h": "近江鉄道本線",
+    "lon": 136.2109758,
+    "lat": 35.15504249,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99602,
+    "company_cd": 190,
+    "line_name_h": "近江鉄道多賀線",
+    "lon": 136.2677014,
+    "lat": 35.23325261,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99603,
+    "company_cd": 190,
+    "line_name_h": "近江鉄道八日市線",
+    "lon": 136.1504219,
+    "lat": 35.11096374,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99604,
+    "company_cd": 191,
+    "line_name_h": "信楽高原鐵道信楽線",
+    "lon": 136.0938447,
+    "lat": 34.91316865,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99605,
+    "company_cd": 192,
+    "line_name_h": "嵯峨野観光線",
+    "lon": 135.6516844,
+    "lat": 35.02158814,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99606,
+    "company_cd": 193,
+    "line_name_h": "叡山電鉄叡山本線",
+    "lon": 135.7908797,
+    "lat": 35.05000422,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99607,
+    "company_cd": 193,
+    "line_name_h": "叡山電鉄鞍馬線",
+    "lon": 135.7789774,
+    "lat": 35.08616881,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99608,
+    "company_cd": 194,
+    "line_name_h": "宮福線",
+    "lon": 135.1450786,
+    "lat": 35.42665061,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99609,
+    "company_cd": 194,
+    "line_name_h": "宮豊線",
+    "lon": 135.0214671,
+    "lat": 35.58009666,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99653,
+    "company_cd": 194,
+    "line_name_h": "宮舞線",
+    "lon": 135.2654791,
+    "lat": 35.49972479,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99610,
+    "company_cd": 195,
+    "line_name_h": "京都市営地下鉄烏丸線",
+    "lon": 135.7655673,
+    "lat": 35.01633354,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99611,
+    "company_cd": 195,
+    "line_name_h": "京都市営地下鉄東西線",
+    "lon": 135.7661215,
+    "lat": 34.97917108,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99612,
+    "company_cd": 196,
+    "line_name_h": "京福電鉄嵐山本線",
+    "lon": 135.7102578,
+    "lat": 35.0127135,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99613,
+    "company_cd": 196,
+    "line_name_h": "京福電鉄北野線",
+    "lon": 135.7124019,
+    "lat": 35.02593705,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99614,
+    "company_cd": 197,
+    "line_name_h": "北大阪急行電鉄",
+    "lon": 135.4954616,
+    "lat": 34.78992724,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99616,
+    "company_cd": 198,
+    "line_name_h": "泉北高速鉄道線",
+    "lon": 135.4892352,
+    "lat": 34.50927756,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99617,
+    "company_cd": 199,
+    "line_name_h": "水間鉄道水間線",
+    "lon": 135.3691331,
+    "lat": 34.42801129,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99618,
+    "company_cd": 200,
+    "line_name_h": "大阪市営地下鉄御堂筋線",
+    "lon": 135.5118377,
+    "lat": 34.67464546,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99619,
+    "company_cd": 200,
+    "line_name_h": "大阪市営地下鉄谷町線",
+    "lon": 135.5527319,
+    "lat": 34.67567108,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99620,
+    "company_cd": 200,
+    "line_name_h": "大阪市営地下鉄四つ橋線",
+    "lon": 135.4936511,
+    "lat": 34.65791996,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99621,
+    "company_cd": 200,
+    "line_name_h": "大阪市営地下鉄中央線",
+    "lon": 135.4957468,
+    "lat": 34.66777349,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99622,
+    "company_cd": 200,
+    "line_name_h": "大阪市営地下鉄千日前線",
+    "lon": 135.5153002,
+    "lat": 34.6767151,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99623,
+    "company_cd": 200,
+    "line_name_h": "大阪市営地下鉄堺筋線",
+    "lon": 135.5083,
+    "lat": 34.67762312,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99624,
+    "company_cd": 200,
+    "line_name_h": "大阪市営地下鉄長堀鶴見緑地線",
+    "lon": 135.5382456,
+    "lat": 34.69274888,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99652,
+    "company_cd": 200,
+    "line_name_h": "大阪市営地下鉄今里筋線",
+    "lon": 135.5502239,
+    "lat": 34.71778192,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99625,
+    "company_cd": 200,
+    "line_name_h": "大阪市中量軌道南港ポートタウン線",
+    "lon": 135.4409309,
+    "lat": 34.62838186,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99626,
+    "company_cd": 201,
+    "line_name_h": "大阪モノレール線",
+    "lon": 135.5244954,
+    "lat": 34.78906136,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99627,
+    "company_cd": 201,
+    "line_name_h": "国際文化公園都市線",
+    "lon": 135.5270888,
+    "lat": 34.83077567,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99628,
+    "company_cd": 202,
+    "line_name_h": "阪堺電軌上町線",
+    "lon": 135.504187,
+    "lat": 34.62745795,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99629,
+    "company_cd": 202,
+    "line_name_h": "阪堺電軌阪堺線",
+    "lon": 135.4809414,
+    "lat": 34.59887028,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99630,
+    "company_cd": 203,
+    "line_name_h": "神戸高速東西線",
+    "lon": 135.1727403,
+    "lat": 34.67795666,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99631,
+    "company_cd": 203,
+    "line_name_h": "神戸高速南北線",
+    "lon": 135.1673864,
+    "lat": 34.67788463,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99632,
+    "company_cd": 204,
+    "line_name_h": "神鉄有馬線",
+    "lon": 135.1850569,
+    "lat": 34.75245997,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99633,
+    "company_cd": 204,
+    "line_name_h": "神鉄三田線",
+    "lon": 135.2221379,
+    "lat": 34.85009861,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99634,
+    "company_cd": 204,
+    "line_name_h": "神鉄公園都市線",
+    "lon": 135.2068426,
+    "lat": 34.89567764,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99635,
+    "company_cd": 204,
+    "line_name_h": "神鉄粟生線",
+    "lon": 135.0190351,
+    "lat": 34.79456506,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99636,
+    "company_cd": 205,
+    "line_name_h": "北神急行電鉄北神線",
+    "lon": 135.1804991,
+    "lat": 34.734054,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99637,
+    "company_cd": 206,
+    "line_name_h": "山陽電鉄本線",
+    "lon": 134.8841417,
+    "lat": 34.74729359,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99638,
+    "company_cd": 206,
+    "line_name_h": "山陽電鉄網干線",
+    "lon": 134.628993,
+    "lat": 34.79619357,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99615,
+    "company_cd": 207,
+    "line_name_h": "能勢電鉄妙見線",
+    "lon": 135.4237989,
+    "lat": 34.87230522,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99640,
+    "company_cd": 207,
+    "line_name_h": "能勢電鉄日生線",
+    "lon": 135.402694,
+    "lat": 34.9008128,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99642,
+    "company_cd": 208,
+    "line_name_h": "三木鉄道三木線",
+    "lon": 134.9390908,
+    "lat": 34.79860467,
+    "e_status": 2
+  },
+  {
+    "line_cd": 99643,
+    "company_cd": 209,
+    "line_name_h": "北条鉄道北条線",
+    "lon": 134.8638858,
+    "lat": 34.89497888,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99644,
+    "company_cd": 210,
+    "line_name_h": "智頭急行智頭線",
+    "lon": 134.3268128,
+    "lat": 35.09441854,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99645,
+    "company_cd": 211,
+    "line_name_h": "神戸市営地下鉄西神線",
+    "lon": 135.0688894,
+    "lat": 34.68307242,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99646,
+    "company_cd": 211,
+    "line_name_h": "神戸市営地下鉄山手線",
+    "lon": 135.1714744,
+    "lat": 34.68032212,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99647,
+    "company_cd": 211,
+    "line_name_h": "神戸市営地下鉄海岸線",
+    "lon": 135.1688599,
+    "lat": 34.67065905,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99648,
+    "company_cd": 212,
+    "line_name_h": "神戸新交通ポートアイランド線",
+    "lon": 135.212604,
+    "lat": 34.67033354,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99649,
+    "company_cd": 212,
+    "line_name_h": "神戸新交通六甲アイランド線",
+    "lon": 135.2677847,
+    "lat": 34.70298944,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99650,
+    "company_cd": 213,
+    "line_name_h": "紀州鉄道線",
+    "lon": 135.1561255,
+    "lat": 33.89542811,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99651,
+    "company_cd": 214,
+    "line_name_h": "和歌山電鐵貴志川線",
+    "lon": 135.2408019,
+    "lat": 34.22928668,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99701,
+    "company_cd": 215,
+    "line_name_h": "若桜鉄道若桜線",
+    "lon": 134.3023643,
+    "lat": 35.37899167,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99702,
+    "company_cd": 216,
+    "line_name_h": "一畑電車北松江線",
+    "lon": 132.8972022,
+    "lat": 35.45774737,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99703,
+    "company_cd": 216,
+    "line_name_h": "一畑電車大社線",
+    "lon": 132.7302839,
+    "lat": 35.38956501,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99704,
+    "company_cd": 217,
+    "line_name_h": "水島臨海鉄道水島本線",
+    "lon": 133.7478599,
+    "lat": 34.56420735,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99705,
+    "company_cd": 218,
+    "line_name_h": "井原鉄道井原線",
+    "lon": 133.5574914,
+    "lat": 34.61669576,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99706,
+    "company_cd": 219,
+    "line_name_h": "岡山電軌東山本線",
+    "lon": 133.9315882,
+    "lat": 34.66244006,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99707,
+    "company_cd": 219,
+    "line_name_h": "岡山電軌清輝橋線",
+    "lon": 133.9240087,
+    "lat": 34.6585708,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99708,
+    "company_cd": 220,
+    "line_name_h": "広島短距離交通瀬野線",
+    "lon": 132.593324,
+    "lat": 34.42745864,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99709,
+    "company_cd": 221,
+    "line_name_h": "広島高速交通広島新交通1号線",
+    "lon": 132.4335823,
+    "lat": 34.43909913,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99710,
+    "company_cd": 222,
+    "line_name_h": "広電１号線(宇品線)",
+    "lon": 132.4635322,
+    "lat": 34.38007803,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99711,
+    "company_cd": 222,
+    "line_name_h": "広電２号線(宮島線)",
+    "lon": 132.3858272,
+    "lat": 34.37150722,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99712,
+    "company_cd": 222,
+    "line_name_h": "広電３号線",
+    "lon": 132.4524421,
+    "lat": 34.3815225,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99713,
+    "company_cd": 222,
+    "line_name_h": "広電５号線(皆実線)",
+    "lon": 132.4676659,
+    "lat": 34.37814055,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99714,
+    "company_cd": 222,
+    "line_name_h": "広電６号線(江波線)",
+    "lon": 132.454292,
+    "lat": 34.38857229,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99715,
+    "company_cd": 222,
+    "line_name_h": "広電７号線",
+    "lon": 132.4528158,
+    "lat": 34.39504706,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99716,
+    "company_cd": 222,
+    "line_name_h": "広電８号線(横川線)",
+    "lon": 132.442765,
+    "lat": 34.39115629,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99717,
+    "company_cd": 222,
+    "line_name_h": "広電９号線(白島線)",
+    "lon": 132.4641667,
+    "lat": 34.40080872,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99718,
+    "company_cd": 223,
+    "line_name_h": "錦川鉄道錦川清流線",
+    "lon": 132.0590467,
+    "lat": 34.20744595,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99801,
+    "company_cd": 224,
+    "line_name_h": "阿佐海岸鉄道阿佐東線",
+    "lon": 134.3112574,
+    "lat": 33.57350417,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99802,
+    "company_cd": 225,
+    "line_name_h": "琴電琴平線",
+    "lon": 133.962144,
+    "lat": 34.26212761,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99803,
+    "company_cd": 225,
+    "line_name_h": "琴電長尾線",
+    "lon": 134.0973672,
+    "lat": 34.30701005,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99804,
+    "company_cd": 225,
+    "line_name_h": "琴電志度線",
+    "lon": 134.1165716,
+    "lat": 34.34515193,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99805,
+    "company_cd": 226,
+    "line_name_h": "伊予鉄道郡中線",
+    "lon": 132.7298202,
+    "lat": 33.80853562,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99806,
+    "company_cd": 226,
+    "line_name_h": "伊予鉄道高浜線",
+    "lon": 132.7276955,
+    "lat": 33.86370357,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99807,
+    "company_cd": 226,
+    "line_name_h": "伊予鉄道横河原線",
+    "lon": 132.8235333,
+    "lat": 33.81259213,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99808,
+    "company_cd": 226,
+    "line_name_h": "伊予鉄道１系統",
+    "lon": 132.7622371,
+    "lat": 33.84489562,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99809,
+    "company_cd": 226,
+    "line_name_h": "伊予鉄道２系統",
+    "lon": 132.7626663,
+    "lat": 33.84375503,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99810,
+    "company_cd": 226,
+    "line_name_h": "伊予鉄道３系統",
+    "lon": 132.7722681,
+    "lat": 33.84300174,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99811,
+    "company_cd": 226,
+    "line_name_h": "伊予鉄道５系統",
+    "lon": 132.7686249,
+    "lat": 33.84361142,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99812,
+    "company_cd": 226,
+    "line_name_h": "伊予鉄道６系統",
+    "lon": 132.7694636,
+    "lat": 33.8480866,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99814,
+    "company_cd": 227,
+    "line_name_h": "土佐くろしお鉄道中村線",
+    "lon": 133.0498857,
+    "lat": 33.09467023,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99815,
+    "company_cd": 227,
+    "line_name_h": "土佐くろしお鉄道宿毛線",
+    "lon": 132.8310545,
+    "lat": 32.96260048,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99816,
+    "company_cd": 227,
+    "line_name_h": "土佐くろしお鉄道ごめん・なはり線",
+    "lon": 133.8252165,
+    "lat": 33.51597712,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99817,
+    "company_cd": 228,
+    "line_name_h": "土佐電鉄ごめん線",
+    "lon": 133.5993362,
+    "lat": 33.56862859,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99818,
+    "company_cd": 228,
+    "line_name_h": "土佐電鉄伊野線",
+    "lon": 133.4919017,
+    "lat": 33.55242239,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99819,
+    "company_cd": 228,
+    "line_name_h": "土佐電鉄桟橋線",
+    "lon": 133.5465588,
+    "lat": 33.55246841,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99901,
+    "company_cd": 229,
+    "line_name_h": "甘木鉄道",
+    "lon": 130.5881801,
+    "lat": 33.41617993,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99902,
+    "company_cd": 230,
+    "line_name_h": "平成筑豊鉄道伊田線",
+    "lon": 130.7604366,
+    "lat": 33.70085453,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99903,
+    "company_cd": 230,
+    "line_name_h": "平成筑豊鉄道糸田線",
+    "lon": 130.7887319,
+    "lat": 33.65906881,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99904,
+    "company_cd": 230,
+    "line_name_h": "平成筑豊鉄道田川線",
+    "lon": 130.9010037,
+    "lat": 33.66604799,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99928,
+    "company_cd": 230,
+    "line_name_h": "平成筑豊鉄道門司港レトロ観光線",
+    "lon": 130.9659488,
+    "lat": 33.95269438,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99905,
+    "company_cd": 231,
+    "line_name_h": "福岡市営地下鉄空港線",
+    "lon": 130.3838128,
+    "lat": 33.59356837,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99906,
+    "company_cd": 231,
+    "line_name_h": "福岡市営地下鉄箱崎線",
+    "lon": 130.4171163,
+    "lat": 33.61482657,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99907,
+    "company_cd": 231,
+    "line_name_h": "福岡市営地下鉄七隈線",
+    "lon": 130.3667894,
+    "lat": 33.5670827,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99908,
+    "company_cd": 232,
+    "line_name_h": "北九州高速鉄道",
+    "lon": 130.8735106,
+    "lat": 33.8560952,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99909,
+    "company_cd": 233,
+    "line_name_h": "筑豊電気鉄道線",
+    "lon": 130.7319842,
+    "lat": 33.824256,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99910,
+    "company_cd": 234,
+    "line_name_h": "松浦鉄道西九州線(有田～伊万里)",
+    "lon": 129.8679219,
+    "lat": 33.22886097,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99911,
+    "company_cd": 234,
+    "line_name_h": "松浦鉄道西九州線(伊万里～佐世保)",
+    "lon": 129.7346398,
+    "lat": 33.28337205,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99912,
+    "company_cd": 235,
+    "line_name_h": "島原鉄道線",
+    "lon": 130.1919946,
+    "lat": 32.76827488,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99913,
+    "company_cd": 236,
+    "line_name_h": "長崎電軌１系統",
+    "lon": 129.8683887,
+    "lat": 32.76872904,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99914,
+    "company_cd": 236,
+    "line_name_h": "長崎電軌３系統",
+    "lon": 129.8705408,
+    "lat": 32.76816252,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99915,
+    "company_cd": 236,
+    "line_name_h": "長崎電軌４系統",
+    "lon": 129.8841648,
+    "lat": 32.7476046,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99916,
+    "company_cd": 236,
+    "line_name_h": "長崎電軌５系統",
+    "lon": 129.8816103,
+    "lat": 32.74553392,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99917,
+    "company_cd": 237,
+    "line_name_h": "熊本電鉄本線",
+    "lon": 130.7298068,
+    "lat": 32.85062225,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99918,
+    "company_cd": 237,
+    "line_name_h": "熊本電鉄上熊本線",
+    "lon": 130.709079,
+    "lat": 32.82357091,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99919,
+    "company_cd": 238,
+    "line_name_h": "南阿蘇鉄道高森線",
+    "lon": 131.0451261,
+    "lat": 32.84393957,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99920,
+    "company_cd": 239,
+    "line_name_h": "くま川鉄道湯前線",
+    "lon": 130.8811357,
+    "lat": 32.23914364,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99921,
+    "company_cd": 240,
+    "line_name_h": "肥薩おれんじ鉄道線",
+    "lon": 130.3913727,
+    "lat": 32.16841797,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99922,
+    "company_cd": 241,
+    "line_name_h": "熊本市電Ａ系統",
+    "lon": 130.7221101,
+    "lat": 32.7910422,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99923,
+    "company_cd": 241,
+    "line_name_h": "熊本市電Ｂ系統",
+    "lon": 130.7203426,
+    "lat": 32.79798979,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99925,
+    "company_cd": 242,
+    "line_name_h": "鹿児島市電１系統",
+    "lon": 130.5431422,
+    "lat": 31.56371049,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99926,
+    "company_cd": 242,
+    "line_name_h": "鹿児島市電２系統",
+    "lon": 130.5507184,
+    "lat": 31.58154362,
+    "e_status": 0
+  },
+  {
+    "line_cd": 99927,
+    "company_cd": 243,
+    "line_name_h": "沖縄都市モノレール線",
+    "lon": 127.6881091,
+    "lat": 26.21229379,
+    "e_status": 0
+  }
+]

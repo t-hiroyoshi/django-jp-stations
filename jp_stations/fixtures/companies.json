@@ -1,0 +1,852 @@
+[
+  {
+    "company_cd": 1,
+    "company_name": "JR北海道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 2,
+    "company_name": "JR東日本",
+    "e_status": 0
+  },
+  {
+    "company_cd": 3,
+    "company_name": "JR東海",
+    "e_status": 0
+  },
+  {
+    "company_cd": 4,
+    "company_name": "JR西日本",
+    "e_status": 0
+  },
+  {
+    "company_cd": 5,
+    "company_name": "JR四国",
+    "e_status": 0
+  },
+  {
+    "company_cd": 6,
+    "company_name": "JR九州",
+    "e_status": 0
+  },
+  {
+    "company_cd": 11,
+    "company_name": "東武鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 12,
+    "company_name": "西武鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 13,
+    "company_name": "京成電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 14,
+    "company_name": "京王電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 15,
+    "company_name": "小田急電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 16,
+    "company_name": "東急電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 17,
+    "company_name": "京急電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 18,
+    "company_name": "東京メトロ",
+    "e_status": 0
+  },
+  {
+    "company_cd": 19,
+    "company_name": "相模鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 20,
+    "company_name": "名古屋鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 21,
+    "company_name": "近畿日本鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 22,
+    "company_name": "南海電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 23,
+    "company_name": "京阪電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 24,
+    "company_name": "阪急電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 25,
+    "company_name": "阪神電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 26,
+    "company_name": "西日本鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 101,
+    "company_name": "札幌市交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 102,
+    "company_name": "函館市交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 103,
+    "company_name": "北海道ちほく高原鉄道",
+    "e_status": 2
+  },
+  {
+    "company_cd": 248,
+    "company_name": "道南いさりび鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 104,
+    "company_name": "津軽鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 105,
+    "company_name": "弘南鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 106,
+    "company_name": "十和田観光電鉄",
+    "e_status": 2
+  },
+  {
+    "company_cd": 107,
+    "company_name": "IGRいわて銀河鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 108,
+    "company_name": "青い森鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 109,
+    "company_name": "三陸鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 110,
+    "company_name": "秋田内陸縦貫鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 111,
+    "company_name": "由利高原鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 112,
+    "company_name": "山形鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 113,
+    "company_name": "くりはら田園鉄道",
+    "e_status": 2
+  },
+  {
+    "company_cd": 114,
+    "company_name": "阿武隈急行",
+    "e_status": 0
+  },
+  {
+    "company_cd": 115,
+    "company_name": "仙台市交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 116,
+    "company_name": "福島交通",
+    "e_status": 0
+  },
+  {
+    "company_cd": 117,
+    "company_name": "会津鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 118,
+    "company_name": "仙台空港鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 119,
+    "company_name": "東京都交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 120,
+    "company_name": "秩父鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 121,
+    "company_name": "埼玉高速鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 122,
+    "company_name": "いすみ鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 123,
+    "company_name": "首都圏新都市鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 124,
+    "company_name": "横浜高速鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 125,
+    "company_name": "ゆりかもめ",
+    "e_status": 0
+  },
+  {
+    "company_cd": 126,
+    "company_name": "わたらせ渓谷鐵道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 127,
+    "company_name": "山万",
+    "e_status": 0
+  },
+  {
+    "company_cd": 128,
+    "company_name": "伊豆箱根鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 129,
+    "company_name": "ひたちなか海浜鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 130,
+    "company_name": "横浜市交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 131,
+    "company_name": "横浜新都市交通",
+    "e_status": 0
+  },
+  {
+    "company_cd": 132,
+    "company_name": "関東鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 133,
+    "company_name": "江ノ島電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 134,
+    "company_name": "埼玉新都市交通",
+    "e_status": 0
+  },
+  {
+    "company_cd": 135,
+    "company_name": "鹿島鉄道",
+    "e_status": 2
+  },
+  {
+    "company_cd": 136,
+    "company_name": "鹿島臨海鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 137,
+    "company_name": "芝山鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 138,
+    "company_name": "小湊鐵道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 139,
+    "company_name": "湘南モノレール",
+    "e_status": 0
+  },
+  {
+    "company_cd": 140,
+    "company_name": "上信電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 141,
+    "company_name": "上毛電気鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 142,
+    "company_name": "新京成電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 143,
+    "company_name": "真岡鐵道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 144,
+    "company_name": "千葉都市モノレール",
+    "e_status": 0
+  },
+  {
+    "company_cd": 145,
+    "company_name": "流鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 146,
+    "company_name": "多摩都市モノレール",
+    "e_status": 0
+  },
+  {
+    "company_cd": 147,
+    "company_name": "銚子電気鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 148,
+    "company_name": "東京モノレール",
+    "e_status": 0
+  },
+  {
+    "company_cd": 149,
+    "company_name": "東京臨海高速鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 150,
+    "company_name": "東葉高速鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 151,
+    "company_name": "箱根登山鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 152,
+    "company_name": "北総鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 153,
+    "company_name": "野岩鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 154,
+    "company_name": "富士急行",
+    "e_status": 0
+  },
+  {
+    "company_cd": 155,
+    "company_name": "北越急行",
+    "e_status": 0
+  },
+  {
+    "company_cd": 156,
+    "company_name": "しなの鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 157,
+    "company_name": "上田交通",
+    "e_status": 0
+  },
+  {
+    "company_cd": 158,
+    "company_name": "長野電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 159,
+    "company_name": "アルピコ交通",
+    "e_status": 0
+  },
+  {
+    "company_cd": 160,
+    "company_name": "富山地方鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 161,
+    "company_name": "神岡鉄道",
+    "e_status": 2
+  },
+  {
+    "company_cd": 163,
+    "company_name": "万葉線",
+    "e_status": 0
+  },
+  {
+    "company_cd": 162,
+    "company_name": "黒部峡谷鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 164,
+    "company_name": "富山ライトレール",
+    "e_status": 0
+  },
+  {
+    "company_cd": 165,
+    "company_name": "北陸鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 244,
+    "company_name": "えちごトキめき鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 245,
+    "company_name": "あいの風とやま鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 246,
+    "company_name": "IRいしかわ鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 166,
+    "company_name": "のと鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 167,
+    "company_name": "えちぜん鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 168,
+    "company_name": "福井鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 169,
+    "company_name": "伊豆急行",
+    "e_status": 0
+  },
+  {
+    "company_cd": 170,
+    "company_name": "岳南鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 171,
+    "company_name": "静岡鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 172,
+    "company_name": "天竜浜名湖鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 173,
+    "company_name": "遠州鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 174,
+    "company_name": "大井川鐵道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 175,
+    "company_name": "名古屋臨海高速鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 176,
+    "company_name": "東海交通事業",
+    "e_status": 0
+  },
+  {
+    "company_cd": 177,
+    "company_name": "愛知環状鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 178,
+    "company_name": "愛知高速交通",
+    "e_status": 0
+  },
+  {
+    "company_cd": 179,
+    "company_name": "名古屋市交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 180,
+    "company_name": "桃花台新交通",
+    "e_status": 2
+  },
+  {
+    "company_cd": 181,
+    "company_name": "豊橋鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 182,
+    "company_name": "名古屋ガイドウェイバス",
+    "e_status": 0
+  },
+  {
+    "company_cd": 183,
+    "company_name": "明知鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 184,
+    "company_name": "長良川鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 185,
+    "company_name": "樽見鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 186,
+    "company_name": "三岐鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 187,
+    "company_name": "伊勢鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 188,
+    "company_name": "伊賀鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 189,
+    "company_name": "養老鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 247,
+    "company_name": "四日市あすなろう鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 190,
+    "company_name": "近江鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 191,
+    "company_name": "信楽高原鐵道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 192,
+    "company_name": "嵯峨野観光鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 193,
+    "company_name": "叡山電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 194,
+    "company_name": "京都丹後鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 195,
+    "company_name": "京都市交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 196,
+    "company_name": "京福電気鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 197,
+    "company_name": "北大阪急行電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 198,
+    "company_name": "大阪府都市開発",
+    "e_status": 0
+  },
+  {
+    "company_cd": 199,
+    "company_name": "水間鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 200,
+    "company_name": "大阪市交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 201,
+    "company_name": "大阪高速鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 202,
+    "company_name": "阪堺電気軌道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 203,
+    "company_name": "神戸高速鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 204,
+    "company_name": "神戸電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 205,
+    "company_name": "北神急行電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 206,
+    "company_name": "山陽電気鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 207,
+    "company_name": "能勢電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 208,
+    "company_name": "三木鉄道",
+    "e_status": 2
+  },
+  {
+    "company_cd": 209,
+    "company_name": "北条鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 210,
+    "company_name": "智頭急行",
+    "e_status": 0
+  },
+  {
+    "company_cd": 211,
+    "company_name": "神戸市交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 212,
+    "company_name": "神戸新交通",
+    "e_status": 0
+  },
+  {
+    "company_cd": 213,
+    "company_name": "紀州鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 214,
+    "company_name": "和歌山電鐵",
+    "e_status": 0
+  },
+  {
+    "company_cd": 215,
+    "company_name": "若桜鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 216,
+    "company_name": "一畑電車",
+    "e_status": 0
+  },
+  {
+    "company_cd": 217,
+    "company_name": "水島臨海鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 218,
+    "company_name": "井原鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 219,
+    "company_name": "岡山電気軌道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 220,
+    "company_name": "スカイレールサービス",
+    "e_status": 0
+  },
+  {
+    "company_cd": 221,
+    "company_name": "広島高速交通",
+    "e_status": 0
+  },
+  {
+    "company_cd": 222,
+    "company_name": "広島電鉄",
+    "e_status": 0
+  },
+  {
+    "company_cd": 223,
+    "company_name": "錦川鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 224,
+    "company_name": "阿佐海岸鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 225,
+    "company_name": "高松琴平電気鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 226,
+    "company_name": "伊予鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 227,
+    "company_name": "土佐くろしお鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 228,
+    "company_name": "土佐電気鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 229,
+    "company_name": "甘木鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 230,
+    "company_name": "平成筑豊鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 231,
+    "company_name": "福岡市交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 232,
+    "company_name": "北九州高速鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 233,
+    "company_name": "筑豊電気鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 234,
+    "company_name": "松浦鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 235,
+    "company_name": "島原鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 236,
+    "company_name": "長崎電気軌道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 237,
+    "company_name": "熊本電気鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 238,
+    "company_name": "南阿蘇鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 239,
+    "company_name": "くま川鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 240,
+    "company_name": "肥薩おれんじ鉄道",
+    "e_status": 0
+  },
+  {
+    "company_cd": 241,
+    "company_name": "熊本市交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 242,
+    "company_name": "鹿児島市交通局",
+    "e_status": 0
+  },
+  {
+    "company_cd": 243,
+    "company_name": "沖縄都市モノレール",
+    "e_status": 0
+  }
+]

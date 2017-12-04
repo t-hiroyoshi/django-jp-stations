@@ -25,7 +25,7 @@ INSTALLED_APPS = [
 ]
 ```
 
-* Run `python manage.py migrate` to create the stations models.
+* Run `python manage.py migrate` to create the stations dataset.
 
 ## Data
 
